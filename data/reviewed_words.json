@@ -1,0 +1,5761 @@
+{
+  "accessary": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "cess",
+        "rootLearnerId": 43
+      }
+    ],
+    "prefixes": [
+      "ac"
+    ],
+    "suffixes": [
+      "ar",
+      "y"
+    ],
+    "note": "Accessory spelling variant; access derives from Latin accedere, with cess/ced = go."
+  },
+  "adaptive": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "apt",
+        "rootLearnerId": 18
+      }
+    ],
+    "prefixes": [
+      "ad"
+    ],
+    "suffixes": [
+      "ive"
+    ],
+    "note": "Adaptive belongs to adapt: ad + apt = fit, with the adjective suffix ive."
+  },
+  "administrate": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "ministr",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "ad"
+    ],
+    "suffixes": [
+      "ate"
+    ],
+    "note": "Administrate belongs to administer and ministr = serve, not min = project."
+  },
+  "aesthetic": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "esthet",
+        "rootLearnerId": 108
+      }
+    ],
+    "suffixes": [
+      "ic"
+    ],
+    "note": "Greek aisthetikos concerns feeling or perception, not the root the = put."
+  },
+  "aesthetical": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "aesthet",
+        "rootLearnerId": 108,
+        "matchedForm": "esthet"
+      }
+    ],
+    "prefixes": [],
+    "suffixes": [
+      "ic",
+      "al"
+    ],
+    "note": "Aesthetical belongs to esthet = feeling; thet = put is unrelated."
+  },
+  "affective": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "fect",
+        "rootLearnerId": 114
+      }
+    ],
+    "prefixes": [
+      "af"
+    ],
+    "suffixes": [
+      "ive"
+    ],
+    "note": "Affect derives from Latin afficere; fect is a form of fac = make, do."
+  },
+  "affordable": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "afford",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "able"
+    ],
+    "note": "Affordable is afford + able, not a two-root compound."
+  },
+  "airport": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "air",
+        "useRootLearner": false
+      },
+      {
+        "form": "port",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound air + port; port means harbor or haven, not the RootLearner part or carry roots."
+  },
+  "airsickness": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "air",
+        "useRootLearner": false
+      },
+      {
+        "form": "sick",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ness"
+    ],
+    "note": "Airsickness is air + sick + ness."
+  },
+  "alchemy": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "prefixes": [],
+    "suffixes": [],
+    "note": "Alchemy remains in the independently reviewed chemistry family without an unsupported chem gloss."
+  },
+  "allergic": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "all",
+        "useRootLearner": false
+      },
+      {
+        "form": "erg",
+        "rootLearnerId": 106
+      }
+    ],
+    "prefixes": [],
+    "suffixes": [
+      "ic"
+    ],
+    "note": "Allergic is all = other + erg = work + ic, not an opaque allerg root."
+  },
+  "allergy": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "all",
+        "useRootLearner": false
+      },
+      {
+        "form": "erg",
+        "rootLearnerId": 106
+      }
+    ],
+    "prefixes": [],
+    "suffixes": [
+      "y"
+    ],
+    "note": "Allergy is all = other + erg = work + y, not an opaque allerg root."
+  },
+  "alternate": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "alter",
+        "rootLearnerId": 10
+      }
+    ],
+    "suffixes": [
+      "ate"
+    ],
+    "note": "Alternate belongs to the alter = other family, not a compound with nate = born."
+  },
+  "alternately": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "altern",
+        "rootLearnerId": 10
+      }
+    ],
+    "suffixes": [
+      "ate",
+      "ly"
+    ],
+    "note": "Alternately is alternate + ly and belongs to alter = other."
+  },
+  "ambiguity": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "ambi",
+        "useRootLearner": false
+      },
+      {
+        "form": "ag",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ity"
+    ],
+    "note": "Ambiguous derives from Latin ambigere: ambi = both, around and ag = drive, move."
+  },
+  "ambiguous": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "ambi",
+        "useRootLearner": false
+      },
+      {
+        "form": "ag",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ous"
+    ],
+    "note": "Ambiguous derives from Latin ambigere: ambi = both, around and ag = drive, move."
+  },
+  "anesthetic": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "esthet",
+        "rootLearnerId": 108
+      }
+    ],
+    "prefixes": [
+      "an"
+    ],
+    "suffixes": [
+      "ic"
+    ],
+    "note": "Anesthetic is an = not + esthet = feeling + ic; thet = put is unrelated."
+  },
+  "animosity": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "anim",
+        "rootLearnerId": 15
+      }
+    ],
+    "suffixes": [
+      "os",
+      "ity"
+    ],
+    "note": "Animosity belongs to anim = mind, spirit, with the noun-forming suffixes."
+  },
+  "antagonism": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "agon",
+        "rootLearnerId": 6
+      }
+    ],
+    "prefixes": [
+      "anti"
+    ],
+    "suffixes": [
+      "ism"
+    ],
+    "note": "Antagonism is anti = against + agon = struggle + ism."
+  },
+  "antagonist": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "agon",
+        "rootLearnerId": 6
+      }
+    ],
+    "prefixes": [
+      "anti"
+    ],
+    "suffixes": [
+      "ist"
+    ],
+    "note": "Antagonist is anti = against + agon = struggle + ist."
+  },
+  "antagonize": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "agon",
+        "rootLearnerId": 6
+      }
+    ],
+    "prefixes": [
+      "anti"
+    ],
+    "suffixes": [
+      "ize"
+    ],
+    "note": "Antagonize is anti = against + agon = struggle + ize."
+  },
+  "appall": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "appall",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Retain the complete verb appall; no safe reusable root segmentation is asserted."
+  },
+  "appendix": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "pend",
+        "rootLearnerId": 288
+      }
+    ],
+    "prefixes": [
+      "ap"
+    ],
+    "suffixes": [
+      "ix"
+    ],
+    "note": "Appendix derives from appendere = hang on or attach; pend = hang."
+  },
+  "archives": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "archive",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "s"
+    ],
+    "note": "Plural of the free word archive, not arc + hive."
+  },
+  "armored": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "armor",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ed"
+    ],
+    "note": "Armored is armor + ed; the ECDICT lemma armore and the arm + ore split are erroneous."
+  },
+  "assistantship": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "assist",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ant",
+      "ship"
+    ],
+    "note": "Assistantship is assist + ant + ship."
+  },
+  "astronomy": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "astro",
+        "rootLearnerId": 24
+      },
+      {
+        "form": "nom",
+        "rootLearnerId": 257,
+        "matchedForm": "nom(y)"
+      }
+    ],
+    "suffixes": [
+      "y"
+    ],
+    "note": "Astronomy is astro = star plus nomy = field of knowledge, not nomin = name."
+  },
+  "atomization": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "atom",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "iz",
+      "at",
+      "ion"
+    ],
+    "note": "Atomization is the transparent atomize-derived noun, not an unresolved lexical item."
+  },
+  "attent": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "tend",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "at"
+    ],
+    "note": "Archaic attent belongs to attend and Latin attendere = stretch toward, not at + tent."
+  },
+  "auspice": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "auspice",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Retain auspice as a lexical item rather than guessing a classical split without a database parse."
+  },
+  "avocational": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "voc",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "a"
+    ],
+    "suffixes": [
+      "ation",
+      "al"
+    ],
+    "note": "Avocational belongs to avocation, from a + voc = call away, with ation + al."
+  },
+  "bandanna": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "bandanna",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Bandanna is a complete lexical item, not band + anna."
+  },
+  "bandleader": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "band",
+        "useRootLearner": false
+      },
+      {
+        "form": "lead",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "er"
+    ],
+    "note": "Bandleader is band + lead + er; ban = prohibit is unrelated."
+  },
+  "bewilder": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "wild",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "be"
+    ],
+    "suffixes": [
+      "er"
+    ],
+    "note": "Use the transparent modern association with wild; do not invent a classical root wilder."
+  },
+  "billion": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "bi",
+        "useRootLearner": false
+      },
+      {
+        "form": "million",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Billion was formed with bi = two and million; bi = life is unrelated."
+  },
+  "biochemistry": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "prefixes": [],
+    "suffixes": [],
+    "note": "Biochemistry remains in the independently reviewed chemistry family without an unsupported chem gloss."
+  },
+  "biotech": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "note": "Modern clipping of biotechnology; retain as a lexical item rather than a classical root compound."
+  },
+  "bipedal": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "ped",
+        "rootLearnerId": 285
+      }
+    ],
+    "prefixes": [
+      "bi"
+    ],
+    "suffixes": [
+      "al"
+    ],
+    "note": "Bipedal is bi + ped = two feet + al."
+  },
+  "birmingham": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "prefixes": [],
+    "suffixes": [],
+    "note": "Birmingham is a proper name retained as an independent lexical item."
+  },
+  "booklist": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "book",
+        "useRootLearner": false
+      },
+      {
+        "form": "list",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound book + list."
+  },
+  "bowlegged": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "bow",
+        "useRootLearner": false
+      },
+      {
+        "form": "leg",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ed"
+    ],
+    "note": "Bowlegged is bow + leg + ed; leg = speak or read is unrelated."
+  },
+  "cabinetmaker": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "cabinet",
+        "useRootLearner": false
+      },
+      {
+        "form": "make",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "er"
+    ],
+    "note": "Cabinetmaker is cabinet + make + er."
+  },
+  "cap": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "cap",
+        "useRootLearner": false
+      }
+    ],
+    "note": "The head covering is not safely covered by either RootLearner cap card; keep the polysemous free word independent."
+  },
+  "cape": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "cape",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Cape combines garment and headland senses with different histories; do not choose a RootLearner cap card automatically."
+  },
+  "carapace": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "carapace",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Carapace is a complete zoological term, not car = dear + apace."
+  },
+  "carcase": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "carcase",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Carcase is a carcass spelling variant, not car + case."
+  },
+  "card": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "card",
+        "rootLearnerId": 62
+      }
+    ],
+    "note": "The paper and playing-card senses belong to card/chart = paper, not card/cord = heart."
+  },
+  "cards": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "card",
+        "rootLearnerId": 62
+      }
+    ],
+    "suffixes": [
+      "s"
+    ],
+    "note": "Plural of card in the paper or playing-card sense, not card/cord = heart."
+  },
+  "catalyze": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "ly",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "cata"
+    ],
+    "suffixes": [
+      "ze"
+    ],
+    "note": "Catalyze belongs to catalysis: cata = down and ly = loosen, dissolve."
+  },
+  "cent": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "cent",
+        "rootLearnerId": 45
+      }
+    ],
+    "note": "The monetary cent derives from Latin centum = hundred, not cent = sing."
+  },
+  "chairman": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "chair",
+        "useRootLearner": false
+      },
+      {
+        "form": "man",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound; man = person, not hand or stay."
+  },
+  "chemical": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "note": "Retain the chemist/chemistry lexical family without presenting the modern shortened stem chem as a classical root."
+  },
+  "chemist": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "note": "Chemist is historically connected with alchemist; retain it as a lexical item rather than assigning a speculative chem root gloss."
+  },
+  "chemistry": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "note": "Chemistry was formed from chemist; retain the lexical family without a classical chem root card."
+  },
+  "childcare": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "child",
+        "useRootLearner": false
+      },
+      {
+        "form": "care",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound child + care; care is unrelated to car = dear."
+  },
+  "choreograph": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "choreo",
+        "rootLearnerId": 65
+      },
+      {
+        "form": "graph",
+        "rootLearnerId": 149
+      }
+    ],
+    "note": "Choreograph contains choreo/chor = dance and graph = write."
+  },
+  "christmas": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "note": "A holiday name historically from Christ's Mass; do not merge mas with mas = male."
+  },
+  "chromosphere": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "chrom",
+        "rootLearnerId": 66
+      },
+      {
+        "form": "sphere",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Chromosphere is chrom = color plus sphere."
+  },
+  "cigaret": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "cigar",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "et"
+    ],
+    "note": "Cigaret is a cigarette spelling variant: cigar plus a diminutive suffix, not cigar + the free word et."
+  },
+  "clergyman": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "clergy",
+        "useRootLearner": false
+      },
+      {
+        "form": "man",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound clergy + man; man = person."
+  },
+  "commonsense": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "common",
+        "useRootLearner": false
+      },
+      {
+        "form": "sense",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent closed compound common + sense."
+  },
+  "compaction": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "compact",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ion"
+    ],
+    "note": "Use the immediate free-word base compact + ion, not a compound with the free suffix-like word ion."
+  },
+  "congest": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "gest",
+        "rootLearnerId": 145
+      }
+    ],
+    "prefixes": [
+      "con"
+    ],
+    "note": "Use the complete word rather than the erroneous ECDICT lemma cong; con + gest = carry together."
+  },
+  "congressman": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "gress",
+        "rootLearnerId": 154
+      },
+      {
+        "form": "man",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "co"
+    ],
+    "note": "Congressman contains congress, from co + gress = come or go together, plus man = person."
+  },
+  "contaminants": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "contaminant",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "s"
+    ],
+    "note": "Plural of the free word contaminant; do not extract min = project from the ending."
+  },
+  "cosmopolitan": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "cosmo",
+        "rootLearnerId": 71,
+        "matchedForm": "cosm(o)"
+      },
+      {
+        "form": "polis",
+        "rootLearnerId": 311
+      }
+    ],
+    "prefixes": [],
+    "suffixes": [
+      "an"
+    ],
+    "note": "Cosmopolitan is cosmo = world + polis = city + an; pol = pole is unrelated."
+  },
+  "cottonwood": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "cotton",
+        "useRootLearner": false
+      },
+      {
+        "form": "wood",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent plant-name compound cotton + wood."
+  },
+  "craftspeople": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "craft",
+        "useRootLearner": false
+      },
+      {
+        "form": "people",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "s"
+    ],
+    "note": "Craftspeople is craft + s + people; ple = fill is unrelated."
+  },
+  "credential": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "cred",
+        "rootLearnerId": 58
+      }
+    ],
+    "suffixes": [
+      "ential"
+    ],
+    "note": "Credential derives through Latin credentia from cred = believe, trust."
+  },
+  "crossbones": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "cross",
+        "useRootLearner": false
+      },
+      {
+        "form": "bone",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "s"
+    ],
+    "note": "Crossbones is cross + bone + s."
+  },
+  "curative": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "cure",
+        "rootLearnerId": 76,
+        "matchedForm": "cur"
+      }
+    ],
+    "suffixes": [
+      "ive"
+    ],
+    "note": "Medical cure and curative belong to cur = care, not cur = run."
+  },
+  "cure": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "cure",
+        "rootLearnerId": 76,
+        "matchedForm": "cur"
+      }
+    ],
+    "note": "Medical cure belongs to cur = care, not cur = run."
+  },
+  "database": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "data",
+        "useRootLearner": false
+      },
+      {
+        "form": "base",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent technical compound data + base."
+  },
+  "decadence": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "cad",
+        "rootLearnerId": 36
+      }
+    ],
+    "prefixes": [
+      "de"
+    ],
+    "suffixes": [
+      "ence"
+    ],
+    "note": "Decadence belongs to de + cad = fall, not a separate decad root."
+  },
+  "decadent": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "cad",
+        "rootLearnerId": 36
+      }
+    ],
+    "prefixes": [
+      "de"
+    ],
+    "suffixes": [
+      "ent"
+    ],
+    "note": "Decadent belongs to de + cad = fall, not a separate decad root."
+  },
+  "demography": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "demo",
+        "rootLearnerId": 83,
+        "matchedForm": "dem(o)"
+      },
+      {
+        "form": "graph",
+        "rootLearnerId": 149
+      }
+    ],
+    "suffixes": [
+      "y"
+    ],
+    "note": "Demography is demo = people plus graph = write, describe."
+  },
+  "deodorizer": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "odor",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "de"
+    ],
+    "suffixes": [
+      "iz",
+      "er"
+    ],
+    "note": "Deodorizer is de + odor + ize + er; ori = rise is unrelated."
+  },
+  "depend": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "pend",
+        "rootLearnerId": 288
+      }
+    ],
+    "prefixes": [
+      "de"
+    ],
+    "note": "Depend derives from Latin dependere = hang from; pend = hang."
+  },
+  "dependable": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "pend",
+        "rootLearnerId": 288
+      }
+    ],
+    "prefixes": [
+      "de"
+    ],
+    "suffixes": [
+      "able"
+    ],
+    "note": "Dependable belongs to depend and pend = hang."
+  },
+  "dependant": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "pend",
+        "rootLearnerId": 288
+      }
+    ],
+    "prefixes": [
+      "de"
+    ],
+    "suffixes": [
+      "ant"
+    ],
+    "note": "Dependant belongs to depend and pend = hang."
+  },
+  "dependence": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "pend",
+        "rootLearnerId": 288
+      }
+    ],
+    "prefixes": [
+      "de"
+    ],
+    "suffixes": [
+      "ence"
+    ],
+    "note": "Dependence belongs to depend and pend = hang."
+  },
+  "dependent": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "pend",
+        "rootLearnerId": 288
+      }
+    ],
+    "prefixes": [
+      "de"
+    ],
+    "suffixes": [
+      "ant"
+    ],
+    "note": "Dependent belongs to depend and pend = hang."
+  },
+  "deport": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "port",
+        "rootLearnerId": 314
+      }
+    ],
+    "prefixes": [
+      "de"
+    ],
+    "note": "Deport derives from Latin deportare = carry away; port = carry."
+  },
+  "deportation": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "port",
+        "rootLearnerId": 314
+      }
+    ],
+    "prefixes": [
+      "de"
+    ],
+    "suffixes": [
+      "ion"
+    ],
+    "note": "Deport derives from Latin deportare = carry away; port = carry."
+  },
+  "despatch": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "note": "Dispatch spelling variant; patch is not a free-root constituent in its etymology."
+  },
+  "despoiler": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "spoil",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "de"
+    ],
+    "suffixes": [
+      "er"
+    ],
+    "note": "Despoiler is despoil + er, with de + spoil as the transparent verb base."
+  },
+  "dialect": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "lect",
+        "rootLearnerId": 194
+      }
+    ],
+    "prefixes": [
+      "dia"
+    ],
+    "note": "Dialect belongs to Greek legein = speak, read, not lect = choose."
+  },
+  "dialog": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "log",
+        "rootLearnerId": 208
+      }
+    ],
+    "prefixes": [
+      "dia"
+    ],
+    "note": "Dialog is a dialogue variant with dia + log = speech."
+  },
+  "dieter": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "diet",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "er"
+    ],
+    "note": "Dieter is diet + er, not a compound."
+  },
+  "dietitian": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "diet",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "itian"
+    ],
+    "note": "Dietitian is diet + itian; die = day and titian are unrelated."
+  },
+  "discard": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "card",
+        "rootLearnerId": 62
+      }
+    ],
+    "prefixes": [
+      "dis"
+    ],
+    "note": "Discard comes from dis + card in the playing-card sense, not card = heart."
+  },
+  "distent": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "tend",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "dis"
+    ],
+    "note": "Distent is a distend variant belonging to dis + tend = stretch apart."
+  },
+  "distill": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "still",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "di"
+    ],
+    "note": "Distill derives from di + still = drip down; still here is not the free adjective still."
+  },
+  "dripstone": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "drip",
+        "useRootLearner": false
+      },
+      {
+        "form": "stone",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent geological compound drip + stone."
+  },
+  "economic": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "eco",
+        "useRootLearner": false
+      },
+      {
+        "form": "nom",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ic"
+    ],
+    "note": "Economy derives from Greek oikonomia: eco = house and nom = arrangement, management."
+  },
+  "economical": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "eco",
+        "useRootLearner": false
+      },
+      {
+        "form": "nom",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ical"
+    ],
+    "note": "Economy derives from Greek oikonomia: eco = house and nom = arrangement, management."
+  },
+  "economically": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "eco",
+        "useRootLearner": false
+      },
+      {
+        "form": "nom",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ically"
+    ],
+    "note": "Economy derives from Greek oikonomia: eco = house and nom = arrangement, management."
+  },
+  "economics": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "eco",
+        "useRootLearner": false
+      },
+      {
+        "form": "nom",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ics"
+    ],
+    "note": "Economy derives from Greek oikonomia: eco = house and nom = arrangement, management."
+  },
+  "economy": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "eco",
+        "useRootLearner": false
+      },
+      {
+        "form": "nom",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "y"
+    ],
+    "note": "Economy derives from Greek oikonomia: eco = house and nom = arrangement, management."
+  },
+  "edentate": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "dent",
+        "rootLearnerId": 85
+      }
+    ],
+    "prefixes": [
+      "e"
+    ],
+    "suffixes": [
+      "ate"
+    ],
+    "note": "Edentate is e + dent = without teeth + ate."
+  },
+  "educe": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "duc",
+        "rootLearnerId": 98
+      }
+    ],
+    "prefixes": [
+      "e"
+    ],
+    "suffixes": [
+      "e"
+    ],
+    "note": "Educe is e + duc = lead out."
+  },
+  "eke": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "eke",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Retain the complete free verb eke; no reusable root segmentation is asserted."
+  },
+  "election": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "lect",
+        "rootLearnerId": 193
+      }
+    ],
+    "prefixes": [
+      "e"
+    ],
+    "suffixes": [
+      "ion"
+    ],
+    "note": "Election belongs to lect = choose; do not apply this variant to electric words, where electr has another origin."
+  },
+  "email": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "note": "Modern formation from electronic mail; retain email as a lexical item rather than splitting off the free word ail."
+  },
+  "emanate": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "man",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "e"
+    ],
+    "suffixes": [
+      "ate"
+    ],
+    "note": "Emanate derives from Latin emanare: e + man = flow out, not man = hand or stay."
+  },
+  "embosom": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "bosom",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "em"
+    ],
+    "note": "Embosom is em + bosom, not em = take plus bosom."
+  },
+  "embryological": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "embryo",
+        "useRootLearner": false
+      },
+      {
+        "form": "log",
+        "rootLearnerId": 209,
+        "matchedForm": "logy"
+      }
+    ],
+    "suffixes": [
+      "ic",
+      "al"
+    ],
+    "note": "Embryological contains embryo and logy = study or science, not the standalone log = speech card."
+  },
+  "endotherm": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "therm",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "endo"
+    ],
+    "note": "Endotherm is endo = within plus therm = heat; her = stick is unrelated."
+  },
+  "endotoxin": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "toxin",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "endo"
+    ],
+    "note": "Endotoxin is endo = within plus toxin."
+  },
+  "englishman": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "english",
+        "useRootLearner": false
+      },
+      {
+        "form": "man",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound; man = person, not hand or stay."
+  },
+  "enquire": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "quir"
+      }
+    ],
+    "prefixes": [
+      "en"
+    ],
+    "suffixes": [
+      "e"
+    ],
+    "note": "Enquire is an inquire variant belonging to quir = seek, search."
+  },
+  "enquiry": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "quir"
+      }
+    ],
+    "prefixes": [
+      "en"
+    ],
+    "suffixes": [
+      "y"
+    ],
+    "note": "Enquiry belongs to enquire and quir = seek, search."
+  },
+  "enthral": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "thrall",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "en"
+    ],
+    "note": "Enthral is a British enthrall spelling variant with en + thrall."
+  },
+  "enthrall": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "thrall",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "en"
+    ],
+    "note": "Enthrall is en + thrall, not a compound of en and a database root fragment."
+  },
+  "equipe": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "equipe",
+        "useRootLearner": false
+      }
+    ],
+    "note": "French équipe means team; the string equi = equal is unrelated."
+  },
+  "esthetic": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "esthet",
+        "rootLearnerId": 108
+      }
+    ],
+    "suffixes": [
+      "ic"
+    ],
+    "note": "Esthetic is an aesthetic spelling variant concerning feeling or perception."
+  },
+  "exocrine": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "crin",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "exo"
+    ],
+    "suffixes": [
+      "e"
+    ],
+    "note": "Exocrine is exo = outside plus crin = separate or secrete."
+  },
+  "expenditure": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "pend",
+        "rootLearnerId": 289
+      }
+    ],
+    "prefixes": [
+      "ex"
+    ],
+    "suffixes": [
+      "ure"
+    ],
+    "note": "Expenditure belongs to pend/pens = weigh, expend, not pend = hang."
+  },
+  "export": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "port",
+        "rootLearnerId": 314
+      }
+    ],
+    "prefixes": [
+      "ex"
+    ],
+    "note": "Export is ex + port = carry out, not port = part."
+  },
+  "extent": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "tend",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "ex"
+    ],
+    "note": "Extent derives from Latin extendere = stretch out, not tent = hold."
+  },
+  "external": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "extr",
+        "rootLearnerId": 109
+      }
+    ],
+    "suffixes": [
+      "al"
+    ],
+    "note": "Use the reviewed RootLearner extr = out connection for external rather than treating tern as a reusable root."
+  },
+  "extort": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "tort",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "ex"
+    ],
+    "note": "Extort derives from Latin extorquere: ex + tort = twist out, not the free compound ex + tort."
+  },
+  "extracurricular": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "cur",
+        "rootLearnerId": 75
+      }
+    ],
+    "prefixes": [
+      "extra"
+    ],
+    "suffixes": [
+      "ular"
+    ],
+    "note": "Extracurricular is extra + curricular; curriculum derives from currere = run."
+  },
+  "facelift": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "face",
+        "useRootLearner": false
+      },
+      {
+        "form": "lift",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound face + lift."
+  },
+  "fagot": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "fagot",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Fagot is a faggot spelling variant; retain the complete lexical item."
+  },
+  "false": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "fals",
+        "rootLearnerId": 115,
+        "matchedForm": "fall"
+      }
+    ],
+    "note": "False derives from Latin falsus/fallere and belongs to the fall/fail = err, deceive family."
+  },
+  "favored": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "favor",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ed"
+    ],
+    "note": "Favored is favor + ed; the ECDICT lemma favore is erroneous."
+  },
+  "fax": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "note": "Modern clipping of facsimile; retain as an independent lexical item."
+  },
+  "fireman": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "fire",
+        "useRootLearner": false
+      },
+      {
+        "form": "man",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound; man = person, not hand or stay."
+  },
+  "fisherman": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "fish",
+        "useRootLearner": false
+      },
+      {
+        "form": "man",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "er"
+    ],
+    "note": "Fisher plus man; man = person, not hand or stay."
+  },
+  "fittingly": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "fitting",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ly"
+    ],
+    "note": "Fittingly is the transparent adverb fitting + ly."
+  },
+  "flagella": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "flagell",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "a"
+    ],
+    "note": "Flagella is the plural of flagellum and belongs to flagell = whip, not flag + ella."
+  },
+  "floodplain": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "flood",
+        "useRootLearner": false
+      },
+      {
+        "form": "plain",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound flood + plain, where plain means flat land."
+  },
+  "flourishment": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "flourish",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ment"
+    ],
+    "note": "Use the immediate free-word base flourish + ment rather than splitting flour + ish + ment."
+  },
+  "flyspeck": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "fly",
+        "useRootLearner": false
+      },
+      {
+        "form": "speck",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound fly + speck."
+  },
+  "foist": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "foist",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Retain the complete verb foist; no safe reusable root segmentation is asserted."
+  },
+  "footpath": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "foot",
+        "useRootLearner": false
+      },
+      {
+        "form": "path",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent Germanic compound; path here is unrelated to Greek pathos = feeling."
+  },
+  "forebear": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "fore",
+        "useRootLearner": false
+      },
+      {
+        "form": "bear",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Forebear is fore + bear in the historical sense one who existed before, not the animal bear."
+  },
+  "friday": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "prefixes": [],
+    "suffixes": [],
+    "note": "Friday is a weekday name retained as an independent lexical item."
+  },
+  "galvanization": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "galvanize",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ation"
+    ],
+    "note": "Galvanization is transparently derived from galvanize, an eponym based on Galvani."
+  },
+  "gaol": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "jail",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Gaol is a British spelling variant of jail; no reusable classical root is asserted."
+  },
+  "gemstone": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "gem",
+        "useRootLearner": false
+      },
+      {
+        "form": "stone",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound gem + stone."
+  },
+  "gentleman": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "gentle",
+        "useRootLearner": false
+      },
+      {
+        "form": "man",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound; man = person, not hand or stay."
+  },
+  "geologic": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "geo",
+        "rootLearnerId": 143
+      },
+      {
+        "form": "log",
+        "rootLearnerId": 209,
+        "matchedForm": "logy"
+      }
+    ],
+    "suffixes": [
+      "ic"
+    ],
+    "note": "Geologic is geo = earth plus logy = study with ic."
+  },
+  "geomagnetic": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "geo",
+        "rootLearnerId": 143
+      },
+      {
+        "form": "magnet",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ic"
+    ],
+    "note": "Geomagnetic is geo = earth plus magnet + ic; magn = big is unrelated."
+  },
+  "gramme": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "gramme",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Gramme is a gram spelling variant and a unit of mass, not gram + me."
+  },
+  "grandeur": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "grand",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [],
+    "suffixes": [
+      "eur"
+    ],
+    "note": "Grandeur is grand + eur; euro is a spurious second root."
+  },
+  "grandson": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "note": "Transparent kinship compound; retain it as a lexical item so son = male child is not merged with son = sound."
+  },
+  "guideline": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "guide",
+        "useRootLearner": false
+      },
+      {
+        "form": "line",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound guide + line."
+  },
+  "handcrafted": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "hand",
+        "useRootLearner": false
+      },
+      {
+        "form": "craft",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ed"
+    ],
+    "note": "Handcrafted is hand + craft + ed."
+  },
+  "handedness": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "hand",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ed",
+      "ness"
+    ],
+    "note": "Handedness is hand + ed + ness."
+  },
+  "hardheaded": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "hard",
+        "useRootLearner": false
+      },
+      {
+        "form": "head",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ed"
+    ],
+    "note": "Hardheaded is hard + head + ed."
+  },
+  "hatchling": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "hatch",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ling"
+    ],
+    "note": "Hatchling is hatch + ling."
+  },
+  "healthcare": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "health",
+        "useRootLearner": false
+      },
+      {
+        "form": "care",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound health + care; care is unrelated to car = dear."
+  },
+  "helpline": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "help",
+        "useRootLearner": false
+      },
+      {
+        "form": "line",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound help + line."
+  },
+  "herder": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "herd",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "er"
+    ],
+    "note": "Herder is herd + er, not her = stick + der."
+  },
+  "homicide": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "hom",
+        "useRootLearner": false
+      },
+      {
+        "form": "cide",
+        "rootLearnerId": 49
+      }
+    ],
+    "note": "Homicide is hom = human plus cide = kill, not cid/cide = fall."
+  },
+  "hominid": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "homin",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "id"
+    ],
+    "note": "Hominid belongs to homin = human; mini = small is unrelated."
+  },
+  "hydrosphere": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "hydro"
+      },
+      {
+        "form": "sphere",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Hydrosphere is hydro = water plus sphere."
+  },
+  "hypotheses": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "the",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "hypo"
+    ],
+    "suffixes": [
+      "ses"
+    ],
+    "note": "Hypotheses is the plural of hypothesis and contains the = put, place."
+  },
+  "hypothesis": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "the",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "hypo"
+    ],
+    "suffixes": [
+      "sis"
+    ],
+    "note": "Hypothesis contains hypo = under and the = put, place."
+  },
+  "hypothesize": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "the",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "hypo"
+    ],
+    "suffixes": [
+      "ize"
+    ],
+    "note": "Hypothesize belongs to hypo + the = put, place + ize."
+  },
+  "ichthyosaur": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "ichthy",
+        "useRootLearner": false
+      },
+      {
+        "form": "saur",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Ichthyosaur is ichthy = fish plus saur = lizard."
+  },
+  "iconographic": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "icon",
+        "useRootLearner": false
+      },
+      {
+        "form": "graph",
+        "rootLearnerId": 149
+      }
+    ],
+    "suffixes": [
+      "ic"
+    ],
+    "note": "Iconographic contains icon = image and graph = write or describe."
+  },
+  "imbue": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "imbue",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Retain the complete verb imbue rather than guessing a prefix and root without a source parse."
+  },
+  "impassible": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "pass"
+      }
+    ],
+    "prefixes": [
+      "im"
+    ],
+    "suffixes": [
+      "ible"
+    ],
+    "note": "Impassible uses pass = suffering or feeling, not the physical pass-through sense."
+  },
+  "impending": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "pend",
+        "rootLearnerId": 288
+      }
+    ],
+    "prefixes": [
+      "im"
+    ],
+    "suffixes": [
+      "ing"
+    ],
+    "note": "Impending is impend + ing and belongs to pend = hang."
+  },
+  "implicate": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "plic",
+        "rootLearnerId": 308
+      }
+    ],
+    "prefixes": [
+      "im"
+    ],
+    "suffixes": [
+      "ate"
+    ],
+    "note": "Reviewed segmentation im + plic + ate repairs the incomplete MorphoLex parse."
+  },
+  "implication": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "plic",
+        "rootLearnerId": 308
+      }
+    ],
+    "prefixes": [
+      "im"
+    ],
+    "suffixes": [
+      "at",
+      "ion"
+    ],
+    "note": "Reviewed segmentation im + plic + at + ion repairs the incomplete MorphoLex parse."
+  },
+  "import": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "port",
+        "rootLearnerId": 314
+      }
+    ],
+    "prefixes": [
+      "im"
+    ],
+    "note": "Import is im + port = carry in, not port = part."
+  },
+  "imports": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "port",
+        "rootLearnerId": 314
+      }
+    ],
+    "prefixes": [
+      "im"
+    ],
+    "suffixes": [
+      "s"
+    ],
+    "note": "Imports is the plural of import; import is im + port = carry in."
+  },
+  "independence": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "pend",
+        "rootLearnerId": 288
+      }
+    ],
+    "prefixes": [
+      "in",
+      "de"
+    ],
+    "suffixes": [
+      "ence"
+    ],
+    "note": "Independence contains depend and pend = hang."
+  },
+  "independent": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "pend",
+        "rootLearnerId": 288
+      }
+    ],
+    "prefixes": [
+      "in",
+      "de"
+    ],
+    "suffixes": [
+      "ent"
+    ],
+    "note": "Independent contains depend and pend = hang."
+  },
+  "indian": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "note": "A name derived from India and ultimately the Indus river; do not treat indo as a reusable classical root here."
+  },
+  "indiscrimination": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "crimin",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "in",
+      "dis"
+    ],
+    "suffixes": [
+      "ation"
+    ],
+    "note": "Indiscrimination is in + discrimination; crimin here means distinguish, not crime or min = project."
+  },
+  "indite": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "dict",
+        "rootLearnerId": 89
+      }
+    ],
+    "prefixes": [
+      "in"
+    ],
+    "suffixes": [
+      "e"
+    ],
+    "note": "Indite belongs to in + dict = say or dictate, not dit = give."
+  },
+  "inducible": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "duc",
+        "rootLearnerId": 98
+      }
+    ],
+    "prefixes": [
+      "in"
+    ],
+    "suffixes": [
+      "ible"
+    ],
+    "note": "Inducible is in + duc = lead + ible."
+  },
+  "instill": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "still",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "in"
+    ],
+    "note": "Instill is in + still = drip in, not the free adjective still."
+  },
+  "intent": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "tend",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "in"
+    ],
+    "note": "Intent derives from Latin intendere = stretch toward, not tent = hold."
+  },
+  "interconnect": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "nect",
+        "rootLearnerId": 250
+      }
+    ],
+    "prefixes": [
+      "inter",
+      "con"
+    ],
+    "note": "Interconnect is inter + con + nect = bind together."
+  },
+  "interconnected": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "nect",
+        "rootLearnerId": 250
+      }
+    ],
+    "prefixes": [
+      "inter",
+      "con"
+    ],
+    "suffixes": [
+      "ed"
+    ],
+    "note": "Interconnected is interconnect + ed, from inter + con + nect = bind together."
+  },
+  "interconnecting": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "nect",
+        "rootLearnerId": 250
+      }
+    ],
+    "prefixes": [
+      "inter",
+      "con"
+    ],
+    "suffixes": [
+      "ing"
+    ],
+    "note": "Interconnecting is interconnect + ing and belongs to nect = bind."
+  },
+  "interdependence": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "pend",
+        "rootLearnerId": 288
+      }
+    ],
+    "prefixes": [
+      "inter",
+      "de"
+    ],
+    "suffixes": [
+      "ence"
+    ],
+    "note": "Interdependence contains inter + depend; pend = hang."
+  },
+  "interdependent": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "pend",
+        "rootLearnerId": 288
+      }
+    ],
+    "prefixes": [
+      "inter",
+      "de"
+    ],
+    "suffixes": [
+      "ent"
+    ],
+    "note": "Interdependent contains inter + depend; pend = hang."
+  },
+  "intermediary": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "medi"
+      }
+    ],
+    "prefixes": [
+      "inter"
+    ],
+    "suffixes": [
+      "ary"
+    ],
+    "note": "Intermediary is inter + medi = middle + ary."
+  },
+  "internet": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "inter",
+        "useRootLearner": false
+      },
+      {
+        "form": "net",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Internet is the transparent technical compound inter + net."
+  },
+  "ionosphere": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "ion",
+        "useRootLearner": false
+      },
+      {
+        "form": "sphere",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [],
+    "suffixes": [],
+    "note": "Ionosphere is the free combining bases ion + sphere, not iono + sphere."
+  },
+  "jeweler": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "jewel",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "er"
+    ],
+    "note": "Jeweler is jewel + er."
+  },
+  "keywords": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "key",
+        "useRootLearner": false
+      },
+      {
+        "form": "word",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "s"
+    ],
+    "note": "Plural of the transparent compound keyword = key + word."
+  },
+  "knapsack": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "prefixes": [],
+    "suffixes": [],
+    "note": "Knapsack is retained independently rather than assigning an unsupported knap root gloss."
+  },
+  "kymograph": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "kym",
+        "useRootLearner": false
+      },
+      {
+        "form": "graph",
+        "rootLearnerId": 149
+      }
+    ],
+    "note": "Kymograph is kym = wave plus graph = write or record."
+  },
+  "landmass": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "land",
+        "useRootLearner": false
+      },
+      {
+        "form": "mass",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound land + mass."
+  },
+  "landscape": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "land",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "scape"
+    ],
+    "note": "Landscape came through Dutch landschap; keep land as the useful free root and scape as the formative suffix."
+  },
+  "lave": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "lav",
+        "rootLearnerId": 191
+      }
+    ],
+    "suffixes": [
+      "e"
+    ],
+    "note": "Lave belongs to lav = wash."
+  },
+  "layman": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "lay",
+        "useRootLearner": false
+      },
+      {
+        "form": "man",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound; man = person, not hand or stay."
+  },
+  "legacy": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "leg",
+        "rootLearnerId": 195
+      }
+    ],
+    "suffixes": [
+      "acy"
+    ],
+    "note": "Legacy belongs to the legal and delegation family leg = law, not leg = read."
+  },
+  "lifesaver": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "life",
+        "useRootLearner": false
+      },
+      {
+        "form": "save",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "er"
+    ],
+    "note": "Lifesaver is life + save + er."
+  },
+  "lifestyle": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "life",
+        "useRootLearner": false
+      },
+      {
+        "form": "style",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound life + style."
+  },
+  "limner": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "limn",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "er"
+    ],
+    "note": "Limner is limn = depict + er."
+  },
+  "lipid": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "lip",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "id"
+    ],
+    "note": "Lipid uses lip = fat, not the free body-part word lip plus id."
+  },
+  "lithosphere": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "lith",
+        "rootLearnerId": 206
+      },
+      {
+        "form": "sphere",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Lithosphere is lith = stone plus sphere."
+  },
+  "locomote": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "loc",
+        "rootLearnerId": 207
+      },
+      {
+        "form": "mot",
+        "rootLearnerId": 242
+      }
+    ],
+    "suffixes": [
+      "e"
+    ],
+    "note": "Locomote belongs to locomotion: loc = place and mot = move."
+  },
+  "locoweed": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "loco",
+        "useRootLearner": false
+      },
+      {
+        "form": "weed",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Locoweed is loco = crazy plus weed, not loc = place."
+  },
+  "loth": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "loth",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Loth is a loath spelling variant; retain the complete free word."
+  },
+  "mackintosh": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "prefixes": [],
+    "suffixes": [],
+    "note": "Mackintosh is a name-derived lexical item retained independently."
+  },
+  "magnetosphere": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "magnet",
+        "useRootLearner": false
+      },
+      {
+        "form": "sphere",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Magnetosphere is magnet + sphere; magn = big is unrelated."
+  },
+  "magnificence": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "magn",
+        "rootLearnerId": 216
+      },
+      {
+        "form": "fic",
+        "rootLearnerId": 114
+      }
+    ],
+    "suffixes": [
+      "ence"
+    ],
+    "note": "Magnificence contains magn = great and fic = make, like magnificent."
+  },
+  "magnificent": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "magn",
+        "rootLearnerId": 216
+      },
+      {
+        "form": "fic",
+        "rootLearnerId": 114
+      }
+    ],
+    "suffixes": [
+      "ent"
+    ],
+    "note": "Magnificent contains magn = great and fic = make, do."
+  },
+  "man": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "man",
+        "useRootLearner": false
+      }
+    ],
+    "note": "The free word man means person or adult male, not the bound roots hand or stay."
+  },
+  "manful": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "man",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ful"
+    ],
+    "note": "Manful contains the free word man = adult male or person, not man = hand or stay."
+  },
+  "mankind": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "man",
+        "useRootLearner": false
+      },
+      {
+        "form": "kind",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound; man = humanity or person, not hand or stay."
+  },
+  "manly": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "man",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ly"
+    ],
+    "note": "Manly contains the free word man, not man = hand or stay."
+  },
+  "manufacture": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "mani",
+        "rootLearnerId": 218,
+        "matchedForm": "man"
+      },
+      {
+        "form": "fact",
+        "rootLearnerId": 114
+      }
+    ],
+    "suffixes": [
+      "ure"
+    ],
+    "note": "Manufacture contains man = hand and fact = make."
+  },
+  "mathematic": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "mathematic",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Mathematic is a standalone adjective related to mathematics; do not invent a suffix split without a database parse."
+  },
+  "matrimony": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "prefixes": [],
+    "suffixes": [],
+    "note": "Matrimony is retained independently; mony is not presented as a reusable classical root."
+  },
+  "melancholy": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "melan",
+        "useRootLearner": false
+      },
+      {
+        "form": "chol",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "y"
+    ],
+    "note": "Melancholy derives from Greek melancholia = black bile: melan = black and chol = bile."
+  },
+  "memorise": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "memor",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ise"
+    ],
+    "note": "Memorise is the British spelling of memorize and belongs to memor = remember, be mindful, not memo + rise."
+  },
+  "mesozoic": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "meso",
+        "useRootLearner": false
+      },
+      {
+        "form": "zo",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ic"
+    ],
+    "note": "Mesozoic is meso = middle plus zo = animal or life with ic."
+  },
+  "mete": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "mete",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Retain the complete free verb or noun mete; no safe reusable root segmentation is asserted."
+  },
+  "metropolis": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "metro",
+        "useRootLearner": false
+      },
+      {
+        "form": "poli",
+        "rootLearnerId": 311,
+        "matchedForm": "polis"
+      }
+    ],
+    "suffixes": [
+      "s"
+    ],
+    "note": "Metropolis is metro = mother plus polis = city, not metr = measure or pol = sell."
+  },
+  "metropolitan": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "poli",
+        "rootLearnerId": 311,
+        "matchedForm": "polis"
+      }
+    ],
+    "prefixes": [
+      "metro"
+    ],
+    "suffixes": [
+      "an"
+    ],
+    "note": "Metropolitan contains polis = city; it must not share the pole = sell gloss with monopoly."
+  },
+  "microcomputer": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "put",
+        "rootLearnerId": 330
+      }
+    ],
+    "prefixes": [
+      "micro",
+      "com"
+    ],
+    "suffixes": [
+      "er"
+    ],
+    "note": "Microcomputer contains computer; compute derives from com + put = think, reckon."
+  },
+  "microprocessor": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "cess",
+        "rootLearnerId": 43
+      }
+    ],
+    "prefixes": [
+      "micro",
+      "pro"
+    ],
+    "suffixes": [
+      "or"
+    ],
+    "note": "Microprocessor contains processor; process belongs to ced/cess = go."
+  },
+  "minimalist": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "minim",
+        "rootLearnerId": 233,
+        "matchedForm": "mini"
+      }
+    ],
+    "suffixes": [
+      "al",
+      "ist"
+    ],
+    "note": "Minimalist contains minimal, from minim/mini = smallest or small, plus ist."
+  },
+  "modem": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "note": "Modern blend of modulator and demodulator; retain as a lexical item rather than mod + em."
+  },
+  "monochromatic": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "chrom",
+        "rootLearnerId": 66
+      }
+    ],
+    "prefixes": [
+      "mono"
+    ],
+    "suffixes": [
+      "atic"
+    ],
+    "note": "Monochromatic is mono = single plus chrom = color with atic."
+  },
+  "monopolize": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "mon",
+        "useRootLearner": false
+      },
+      {
+        "form": "pole",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [],
+    "suffixes": [
+      "ize"
+    ],
+    "note": "Monopolize is mon = alone + pole = sell + ize; it does not share cosmopolitan polis = city."
+  },
+  "monopoly": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "mon",
+        "useRootLearner": false
+      },
+      {
+        "form": "pole",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "y"
+    ],
+    "note": "Monopoly derives from Greek monopolia: mon = alone and pole = sell."
+  },
+  "mulberry": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "prefixes": [],
+    "suffixes": [],
+    "note": "Mulberry is retained independently rather than treating the MorphoLex stem mul as a reusable root."
+  },
+  "multicellular": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "cell",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "multi"
+    ],
+    "suffixes": [
+      "ular"
+    ],
+    "note": "Multicellular is multi + cell + ular."
+  },
+  "multifaceted": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "facet",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "multi"
+    ],
+    "suffixes": [
+      "ed"
+    ],
+    "note": "Multifaceted is multi + facet + ed; fac = make is not the root here."
+  },
+  "multiplication": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "plic",
+        "rootLearnerId": 308
+      }
+    ],
+    "prefixes": [
+      "multi"
+    ],
+    "suffixes": [
+      "at",
+      "ion"
+    ],
+    "note": "Reviewed segmentation multi + plic + at + ion repairs the incomplete MorphoLex parse."
+  },
+  "multistory": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "story",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "multi"
+    ],
+    "note": "Multistory is multi + story in the building-floor sense."
+  },
+  "neighboring": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "neighbor",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ing"
+    ],
+    "note": "Neighboring is neighbor + ing; the ECDICT lemma neighbore is erroneous and neigh + bore is unrelated."
+  },
+  "neurotransmitter": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "mit",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "neuro",
+      "trans"
+    ],
+    "suffixes": [
+      "er"
+    ],
+    "note": "Neurotransmitter contains neuro + transmitter; transmitter is trans + mit = send across + er."
+  },
+  "nevertheless": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "note": "Fixed adverbial phrase never + the + less; the MorphoLex root theo is spurious here."
+  },
+  "nonetheless": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "note": "Fixed adverbial phrase none + the + less; the MorphoLex root theo is spurious here."
+  },
+  "nonhuman": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "human",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "non"
+    ],
+    "note": "Nonhuman is non + human; hum = earth is not the relevant root card."
+  },
+  "nonprofessional": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "fess",
+        "rootLearnerId": 119
+      }
+    ],
+    "prefixes": [
+      "non",
+      "pro"
+    ],
+    "suffixes": [
+      "ion",
+      "al"
+    ],
+    "note": "Nonprofessional contains professional; profession belongs to pro + fess = declare or speak forth."
+  },
+  "nontraditional": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "dit",
+        "rootLearnerId": 92
+      }
+    ],
+    "prefixes": [
+      "non",
+      "tra"
+    ],
+    "suffixes": [
+      "ion",
+      "al"
+    ],
+    "note": "Nontraditional contains traditional; tradition derives from tra + dit = hand over or give across."
+  },
+  "nonverbal": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "verb",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "non"
+    ],
+    "suffixes": [
+      "al"
+    ],
+    "note": "Nonverbal is non + verb + al in the word or speech sense."
+  },
+  "nowadays": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "note": "Fixed adverb historically formed from now and days; the isolated root a is not useful for root grouping."
+  },
+  "obstinate": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "ob",
+        "useRootLearner": false
+      },
+      {
+        "form": "stin",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ate"
+    ],
+    "note": "Obstinate derives from Latin obstinare: ob = against and stin = stand."
+  },
+  "oceania": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "note": "Geographical name formed from Ocean; retain as a proper-name lexical item rather than a reusable root family."
+  },
+  "odorless": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "odor",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "less"
+    ],
+    "note": "Odorless is odor + less."
+  },
+  "ohp": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "note": "Initialism for overhead projector or overhead projection; retain as an abbreviation."
+  },
+  "online": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "on",
+        "useRootLearner": false
+      },
+      {
+        "form": "line",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent technical compound on + line."
+  },
+  "opt": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "opt"
+      }
+    ],
+    "note": "The standalone verb opt means choose and belongs to the reviewed opt root card."
+  },
+  "optometrist": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "opto",
+        "useRootLearner": false
+      },
+      {
+        "form": "metr",
+        "rootLearnerId": 229
+      }
+    ],
+    "suffixes": [
+      "ist"
+    ],
+    "note": "Optometrist contains opto = sight and metr = measure plus ist."
+  },
+  "outskirt": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "out",
+        "useRootLearner": false
+      },
+      {
+        "form": "skirt",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound out + skirt."
+  },
+  "oversecretion": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "cret",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "over",
+      "se"
+    ],
+    "suffixes": [
+      "ion"
+    ],
+    "note": "Oversecretion contains secretion, from se + cret = separate off, not cret = sure."
+  },
+  "overtire": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "tire",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "over"
+    ],
+    "note": "Overtire is over + tire."
+  },
+  "paddler": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "paddle",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "er"
+    ],
+    "note": "Paddler is paddle + er with the final e dropped."
+  },
+  "parachute": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "note": "Parachute uses a Romance protection-against formation plus chute = fall; do not merge it with Greek para = beside."
+  },
+  "paragraph": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "para",
+        "useRootLearner": false
+      },
+      {
+        "form": "graph",
+        "rootLearnerId": 149
+      }
+    ],
+    "note": "Paragraph derives from Greek paragraphos: para = beside and graph = write."
+  },
+  "paralyse": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "para",
+        "useRootLearner": false
+      },
+      {
+        "form": "ly",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "se"
+    ],
+    "note": "Paralyse belongs to the para + ly = loosen family."
+  },
+  "paralysis": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "para",
+        "useRootLearner": false
+      },
+      {
+        "form": "ly",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "sis"
+    ],
+    "note": "Paralysis derives from para = beside and ly = loosen, dissolve."
+  },
+  "paralyze": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "para",
+        "useRootLearner": false
+      },
+      {
+        "form": "ly",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ze"
+    ],
+    "note": "Paralyze belongs to the para + ly = loosen family."
+  },
+  "parameter": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "para",
+        "useRootLearner": false
+      },
+      {
+        "form": "meter",
+        "rootLearnerId": 229
+      }
+    ],
+    "note": "Parameter contains para = beside and meter = measure."
+  },
+  "paramount": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "mount",
+        "rootLearnerId": 243
+      }
+    ],
+    "prefixes": [
+      "para"
+    ],
+    "note": "Paramount came through French par amont = upward or above; retain mount = ascend and do not select par = equal, appear, or give birth."
+  },
+  "passport": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "pass",
+        "useRootLearner": false
+      },
+      {
+        "form": "port",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Passport is pass + port in the harbor sense, not port = part or carry."
+  },
+  "pathogen": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "patho",
+        "rootLearnerId": 283
+      },
+      {
+        "form": "gen",
+        "rootLearnerId": 142
+      }
+    ],
+    "note": "Pathogen is patho = disease or suffering plus gen = produce."
+  },
+  "patricide": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "patri",
+        "rootLearnerId": 284
+      },
+      {
+        "form": "cide",
+        "rootLearnerId": 49
+      }
+    ],
+    "note": "Patricide is patri = father plus cide = kill."
+  },
+  "patroller": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "patrol",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "er"
+    ],
+    "note": "Patroller is patrol + er with consonant doubling."
+  },
+  "pending": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "pend",
+        "rootLearnerId": 288
+      }
+    ],
+    "suffixes": [
+      "ing"
+    ],
+    "note": "Pending is pend = hang plus ing, not pend = weigh or expend."
+  },
+  "pendulum": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "pend",
+        "rootLearnerId": 288
+      }
+    ],
+    "suffixes": [
+      "ulum"
+    ],
+    "note": "Pendulum derives directly from pend = hang."
+  },
+  "peripheral": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "pher",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "peri"
+    ],
+    "suffixes": [
+      "al"
+    ],
+    "note": "Peripheral derives from Greek periphereia: peri + pher = carry, bear."
+  },
+  "perpendicular": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "pend",
+        "rootLearnerId": 288
+      }
+    ],
+    "prefixes": [
+      "per"
+    ],
+    "suffixes": [
+      "ular"
+    ],
+    "note": "Perpendicular derives through perpendiculum = plumb line from pend = hang."
+  },
+  "pesticide": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "pest",
+        "useRootLearner": false
+      },
+      {
+        "form": "cide",
+        "rootLearnerId": 49
+      }
+    ],
+    "note": "Pesticide is pest + cide = kill, not cid/cide = fall."
+  },
+  "petrifaction": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "petr",
+        "rootLearnerId": 292
+      },
+      {
+        "form": "fact",
+        "rootLearnerId": 114
+      }
+    ],
+    "suffixes": [
+      "ion"
+    ],
+    "note": "Petrifaction is petr = stone plus fact = make with ion."
+  },
+  "phd": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "note": "Initialism for Doctor of Philosophy; retain as an abbreviation."
+  },
+  "photojournalism": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "photo"
+      },
+      {
+        "form": "journal",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ism"
+    ],
+    "note": "Photojournalism contains photo = light and journal + ism; do not discard the journal constituent."
+  },
+  "photosphere": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "photo"
+      },
+      {
+        "form": "sphere",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Photosphere is photo = light plus sphere."
+  },
+  "photosynthesis": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "photo",
+        "rootLearnerId": 297
+      },
+      {
+        "form": "the",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "syn"
+    ],
+    "suffixes": [
+      "sis"
+    ],
+    "note": "Photosynthesis is photo = light + syn + the = put, place + sis."
+  },
+  "platelike": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "plate",
+        "useRootLearner": false
+      },
+      {
+        "form": "like",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Platelike is plate + like."
+  },
+  "pollinator": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "pollinate",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "or"
+    ],
+    "note": "Pollinator is pollinate + or with the final e dropped; nat = born is unrelated."
+  },
+  "polygonal": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "gon",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "poly"
+    ],
+    "suffixes": [
+      "al"
+    ],
+    "note": "Polygonal contains polygon: poly = many and gon = angle, plus al."
+  },
+  "port": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "port",
+        "useRootLearner": false
+      }
+    ],
+    "note": "The standalone word is polysemous and includes harbor senses; do not choose port = part or carry for every sense."
+  },
+  "portfolio": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "port",
+        "rootLearnerId": 314
+      },
+      {
+        "form": "folio",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Portfolio comes through Italian portafoglio = carry leaves or sheets: port = carry and folio = leaf."
+  },
+  "postcard": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "post",
+        "useRootLearner": false
+      },
+      {
+        "form": "card",
+        "rootLearnerId": 62
+      }
+    ],
+    "note": "Postcard is post + card in the paper sense, not card = heart."
+  },
+  "postman": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "post",
+        "useRootLearner": false
+      },
+      {
+        "form": "man",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Post here means mail and man means person; neither RootLearner homograph applies."
+  },
+  "postoperative": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "oper"
+      }
+    ],
+    "prefixes": [
+      "post"
+    ],
+    "suffixes": [
+      "ative"
+    ],
+    "note": "Postoperative is post + oper = work with ative, specifically after an operation."
+  },
+  "potent": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "poten",
+        "rootLearnerId": 317
+      }
+    ],
+    "suffixes": [
+      "ent"
+    ],
+    "note": "Potent belongs to poten = powerful; pot is only the shortened MorphoLex stem."
+  },
+  "potential": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "poten",
+        "rootLearnerId": 317
+      }
+    ],
+    "suffixes": [
+      "ial"
+    ],
+    "note": "Potential belongs to poten = powerful; pot is the shortened MorphoLex stem, not a conflicting root."
+  },
+  "prate": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "prate",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Retain the complete verb or noun prate; no safe reusable root segmentation is asserted."
+  },
+  "preeminent": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "min",
+        "rootLearnerId": 232
+      }
+    ],
+    "prefixes": [
+      "pre",
+      "e"
+    ],
+    "suffixes": [
+      "ent"
+    ],
+    "note": "Preeminent is pre + eminent, from e + min = project out."
+  },
+  "pronghorn": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "prong",
+        "useRootLearner": false
+      },
+      {
+        "form": "horn",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent animal-name compound prong + horn."
+  },
+  "protend": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "tend",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "pro"
+    ],
+    "note": "Protend is pro + tend = stretch forward, not pro + the free word tend as a compound."
+  },
+  "psycholinguistics": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "psycho",
+        "useRootLearner": false
+      },
+      {
+        "form": "lingu"
+      }
+    ],
+    "suffixes": [
+      "ist",
+      "ic",
+      "s"
+    ],
+    "note": "Psycholinguistics is psycho = mind plus lingu = language with the linguistic-forming suffixes and plural s."
+  },
+  "psychology": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "psycho",
+        "useRootLearner": false
+      },
+      {
+        "form": "logy",
+        "rootLearnerId": 209
+      }
+    ],
+    "note": "Psychology is psycho = mind plus logy = science, not log = speech in this word."
+  },
+  "pursuit": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "sequ",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "pur"
+    ],
+    "note": "Pursuit derives through pursue from Latin prosequi = follow forward, not sui = self."
+  },
+  "quilter": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "quilt",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "er"
+    ],
+    "note": "Quilter is quilt + er."
+  },
+  "rainforest": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "rain",
+        "useRootLearner": false
+      },
+      {
+        "form": "forest",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound rain + forest."
+  },
+  "rebroadcast": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "broad",
+        "useRootLearner": false
+      },
+      {
+        "form": "cast",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "re"
+    ],
+    "note": "Rebroadcast is re + broad + cast; cas = fall is unrelated."
+  },
+  "receptor": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "cept",
+        "rootLearnerId": 39
+      }
+    ],
+    "prefixes": [
+      "re"
+    ],
+    "suffixes": [
+      "or"
+    ],
+    "note": "Receptor is re + cept = take or receive + or."
+  },
+  "recompose": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "pos",
+        "rootLearnerId": 315
+      }
+    ],
+    "prefixes": [
+      "re",
+      "com"
+    ],
+    "suffixes": [
+      "e"
+    ],
+    "note": "Recompose is re + compose, from com + pos = put together."
+  },
+  "reflexion": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "flex",
+        "rootLearnerId": 128
+      }
+    ],
+    "prefixes": [
+      "re"
+    ],
+    "suffixes": [
+      "ion"
+    ],
+    "note": "Reflexion is a reflection spelling variant with re + flex = bend."
+  },
+  "reformism": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "form",
+        "rootLearnerId": 133
+      }
+    ],
+    "prefixes": [
+      "re"
+    ],
+    "suffixes": [
+      "ism"
+    ],
+    "note": "Reformism is re + form + ism."
+  },
+  "regenerative": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "gen",
+        "rootLearnerId": 142
+      }
+    ],
+    "prefixes": [
+      "re"
+    ],
+    "suffixes": [
+      "er",
+      "at",
+      "ive"
+    ],
+    "note": "Regenerative contains re + gen = produce, beget."
+  },
+  "reheating": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "heat",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "re"
+    ],
+    "suffixes": [
+      "ing"
+    ],
+    "note": "Reheating is re + heat + ing."
+  },
+  "reinterpretation": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "interpret",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "re"
+    ],
+    "suffixes": [
+      "ation"
+    ],
+    "note": "Reinterpretation is re + interpret + ation; do not guess a classical root absent a source parse."
+  },
+  "religion": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "note": "The historical derivation is disputed, including religare = bind and relegere = read again; retain the lexical item without selecting one automatically."
+  },
+  "religious": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "note": "Retain religion/religious as a lexical family without choosing between the disputed historical derivations of religion."
+  },
+  "report": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "port",
+        "rootLearnerId": 314
+      }
+    ],
+    "prefixes": [
+      "re"
+    ],
+    "note": "Report derives from Latin reportare = carry back; port = carry."
+  },
+  "reporter": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "port",
+        "rootLearnerId": 314
+      }
+    ],
+    "prefixes": [
+      "re"
+    ],
+    "suffixes": [
+      "er"
+    ],
+    "note": "Report derives from Latin reportare = carry back; port = carry."
+  },
+  "reports": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "port",
+        "rootLearnerId": 314
+      }
+    ],
+    "prefixes": [
+      "re"
+    ],
+    "suffixes": [
+      "s"
+    ],
+    "note": "Reports is an inflected form of report; port = carry back."
+  },
+  "reschedule": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "schedule",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "re"
+    ],
+    "note": "Reschedule is re + schedule."
+  },
+  "reservior": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "reservoir",
+        "useRootLearner": false
+      }
+    ],
+    "note": "ECDICT reservior is a reservoir misspelling; preserve the source word but use the standard free-word form."
+  },
+  "reshape": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "shape",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "re"
+    ],
+    "note": "Reshape is re + shape."
+  },
+  "resonance": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "son",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "re"
+    ],
+    "suffixes": [
+      "ance"
+    ],
+    "note": "Resonance belongs to son = sound."
+  },
+  "retention": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "ten",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "re"
+    ],
+    "suffixes": [
+      "ion"
+    ],
+    "note": "Retention derives from Latin retinere = hold back; ten/tent = hold, not tend = stretch."
+  },
+  "retool": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "tool",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "re"
+    ],
+    "note": "Retool is re + tool."
+  },
+  "revered": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "rever",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ed"
+    ],
+    "note": "Revered is revere + d and belongs to rever = stand in awe of; the ECDICT lemma rever is only a stem."
+  },
+  "rigor": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "rigor",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Retain the complete noun rigor, not rig + or."
+  },
+  "saber": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "saber",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Saber is a sabre spelling variant; retain the complete lexical item."
+  },
+  "sacrifice": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "sacr",
+        "useRootLearner": false
+      },
+      {
+        "form": "fic",
+        "rootLearnerId": 114
+      }
+    ],
+    "suffixes": [
+      "e"
+    ],
+    "note": "Sacrifice contains sacr = sacred and fic = make, do."
+  },
+  "salesman": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "sale",
+        "useRootLearner": false
+      },
+      {
+        "form": "man",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound; man = person, not hand or stay."
+  },
+  "sanctimonious": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "prefixes": [],
+    "suffixes": [],
+    "note": "Sanctimonious is retained independently; mony is not presented as a reusable classical root."
+  },
+  "sapience": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "sap",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ience"
+    ],
+    "note": "Sapience belongs to sap = discern or be wise, not the free plant-fluid word sap."
+  },
+  "saturday": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "prefixes": [],
+    "suffixes": [],
+    "note": "Saturday is a weekday name retained as an independent lexical item."
+  },
+  "scathe": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "scathe",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Retain the complete lexical item scathe, not scat + he."
+  },
+  "scientific": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "sci",
+        "useRootLearner": false
+      },
+      {
+        "form": "fic",
+        "rootLearnerId": 114
+      }
+    ],
+    "suffixes": [
+      "ent",
+      "ic"
+    ],
+    "note": "Scientific contains sci = know and fic = make; sci = shade is unrelated."
+  },
+  "scientist": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "sci",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ent",
+      "ist"
+    ],
+    "note": "Scientist belongs to sci = know, not sci = shade."
+  },
+  "scotsman": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "scot",
+        "useRootLearner": false
+      },
+      {
+        "form": "man",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound Scot + man; man = person, not hand or stay."
+  },
+  "seaman": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "sea",
+        "useRootLearner": false
+      },
+      {
+        "form": "man",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound; man = person, not hand or stay."
+  },
+  "seamen": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "sea",
+        "useRootLearner": false
+      },
+      {
+        "form": "man",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Seamen is the plural of seaman = sea + man, with man = person."
+  },
+  "seamount": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "sea",
+        "useRootLearner": false
+      },
+      {
+        "form": "mount",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Seamount is sea + mount in the mountain sense, not mount = ascend."
+  },
+  "seaport": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "sea",
+        "useRootLearner": false
+      },
+      {
+        "form": "port",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Seaport contains port = harbor, not port = part or carry."
+  },
+  "secretin": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "cret",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "se"
+    ],
+    "suffixes": [
+      "in"
+    ],
+    "note": "Secretin was named from secretion and uses the same se + cret = separate family, plus the biochemical suffix in."
+  },
+  "semiliterate": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "literate",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "semi"
+    ],
+    "note": "Semiliterate is semi + literate; milit = soldier is unrelated."
+  },
+  "semimolten": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "molten",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "semi"
+    ],
+    "note": "Semimolten is semi + molten."
+  },
+  "seminate": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "semin",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ate"
+    ],
+    "note": "Seminate belongs to semin = seed, not semi = half plus nate = born."
+  },
+  "skeptic": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "skept",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ic"
+    ],
+    "note": "Skeptic belongs to skept = examine or consider, not ept = fit."
+  },
+  "spined": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "spine",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "d"
+    ],
+    "note": "Spined is spine + d, not spin + ed."
+  },
+  "spinet": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "spinet",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Spinet is a complete musical-instrument name, not spin + et."
+  },
+  "spokesman": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "spoke",
+        "useRootLearner": false
+      },
+      {
+        "form": "man",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Spokesman contains the free word man = person, not hand or stay."
+  },
+  "sportsman": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "sport",
+        "useRootLearner": false
+      },
+      {
+        "form": "man",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound; man = person, not hand or stay."
+  },
+  "sportswear": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "sport",
+        "useRootLearner": false
+      },
+      {
+        "form": "wear",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound sport + wear, not sport + swear."
+  },
+  "springwater": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "spring",
+        "useRootLearner": false
+      },
+      {
+        "form": "water",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound spring + water."
+  },
+  "statesman": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "state",
+        "useRootLearner": false
+      },
+      {
+        "form": "man",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound; man = person, not hand or stay."
+  },
+  "stereophotograph": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "stereo",
+        "useRootLearner": false
+      },
+      {
+        "form": "photo"
+      },
+      {
+        "form": "graph",
+        "rootLearnerId": 149
+      }
+    ],
+    "note": "Stereophotograph contains stereo = solid or three-dimensional, photo = light, and graph = write or record."
+  },
+  "strangler": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "strangle",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "er"
+    ],
+    "note": "Strangler is transparently strangle + er; use the free-word base rather than calling the word unresolved."
+  },
+  "strata": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "strat",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [],
+    "suffixes": [
+      "a"
+    ],
+    "note": "Strata is the plural of stratum and belongs to strat = spread, strew, not strat = army."
+  },
+  "strategic": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "strat",
+        "useRootLearner": false
+      },
+      {
+        "form": "ag",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ic"
+    ],
+    "note": "Strategic belongs to strat = army and ag = lead."
+  },
+  "strategy": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "strat",
+        "useRootLearner": false
+      },
+      {
+        "form": "ag",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "y"
+    ],
+    "note": "Strategy derives from Greek strategia: strat = army and ag = lead."
+  },
+  "stratum": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "strat",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [],
+    "suffixes": [
+      "um"
+    ],
+    "note": "Stratum belongs to strat = spread, strew, not strat = army."
+  },
+  "subdiscipline": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "discipline",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "sub"
+    ],
+    "note": "Subdiscipline is sub + discipline."
+  },
+  "subduct": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "duct",
+        "rootLearnerId": 98
+      }
+    ],
+    "prefixes": [
+      "sub"
+    ],
+    "note": "Subduct is sub + duct = lead or draw down."
+  },
+  "subscript": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "script",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "sub"
+    ],
+    "note": "Subscript is sub + script = write below."
+  },
+  "subsidiary": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "sid",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "sub"
+    ],
+    "suffixes": [
+      "iary"
+    ],
+    "note": "Subsidiary belongs to subsidy, from Latin subsidium; subsidere is sub + sidere = sit below or in reserve."
+  },
+  "subsidy": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "sid",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "sub"
+    ],
+    "suffixes": [
+      "y"
+    ],
+    "note": "Subsidy derives from Latin subsidium, from sub + sidere = sit below or in reserve."
+  },
+  "subtractive": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "tract",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "sub"
+    ],
+    "suffixes": [
+      "ive"
+    ],
+    "note": "Subtractive belongs to subtract, from sub + tract = draw away, not act = do."
+  },
+  "suburbanization": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "urban",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "sub"
+    ],
+    "suffixes": [
+      "iz",
+      "at",
+      "ion"
+    ],
+    "note": "Suburbanization is sub + urban + ization; ban = prohibit is unrelated."
+  },
+  "suicide": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "sui",
+        "useRootLearner": false
+      },
+      {
+        "form": "cid",
+        "rootLearnerId": 49
+      }
+    ],
+    "suffixes": [
+      "e"
+    ],
+    "note": "Suicide is sui = self plus cid = kill; pursuit is unrelated."
+  },
+  "sulphur": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "sulphur",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Element name; keep the complete free word rather than treating sulph as a reusable classical root."
+  },
+  "sunglasses": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "sun",
+        "useRootLearner": false
+      },
+      {
+        "form": "glass",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "es"
+    ],
+    "note": "Sunglasses is sun + glass + es."
+  },
+  "supercontinent": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "continent",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "super"
+    ],
+    "note": "Supercontinent is super + continent."
+  },
+  "superheat": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "heat",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "super"
+    ],
+    "note": "Superheat is super + heat."
+  },
+  "supersonic": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "son",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "super"
+    ],
+    "suffixes": [
+      "ic"
+    ],
+    "note": "Supersonic belongs to son = sound."
+  },
+  "supplementation": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "ple",
+        "rootLearnerId": 306
+      }
+    ],
+    "prefixes": [
+      "sup"
+    ],
+    "suffixes": [
+      "ement",
+      "at",
+      "ion"
+    ],
+    "note": "Supplementation contains supplement, from sup + ple = fill up; ment is a noun suffix here, not mind."
+  },
+  "surgery": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "chir",
+        "useRootLearner": false
+      },
+      {
+        "form": "erg",
+        "rootLearnerId": 106
+      }
+    ],
+    "suffixes": [
+      "y"
+    ],
+    "note": "Surgery derives through Latin and French from Greek cheirourgia = hand work, not surg = rise."
+  },
+  "suspender": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "pend",
+        "rootLearnerId": 288
+      }
+    ],
+    "prefixes": [
+      "sus"
+    ],
+    "suffixes": [
+      "er"
+    ],
+    "note": "Suspender is sus + pend = hang + er."
+  },
+  "symbiotic": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "bio",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "sym"
+    ],
+    "suffixes": [
+      "tic"
+    ],
+    "note": "Symbiotic is sym = together plus bio = life with tic."
+  },
+  "symbology": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "symbol",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ogy"
+    ],
+    "note": "Symbology is symbol + logy = study; bol = throw is unrelated."
+  },
+  "synthesis": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "the",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "syn"
+    ],
+    "suffixes": [
+      "sis"
+    ],
+    "note": "Synthesis contains the = put, place."
+  },
+  "synthesize": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "the",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "syn"
+    ],
+    "suffixes": [
+      "size"
+    ],
+    "note": "Synthesize belongs to synthesis and the = put, place."
+  },
+  "synthesizer": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "the",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "syn"
+    ],
+    "suffixes": [
+      "ize",
+      "er"
+    ],
+    "note": "Synthesizer belongs to syn + the = put, place + ize + er."
+  },
+  "synthetic": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "the",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "syn"
+    ],
+    "suffixes": [
+      "tic"
+    ],
+    "note": "Synthetic contains the = put, place."
+  },
+  "tectonics": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "tect",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "on",
+      "ic",
+      "s"
+    ],
+    "note": "Tectonics belongs to tect = build or carpenter, with on + ic + s."
+  },
+  "telecommuter": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "mut",
+        "rootLearnerId": 247
+      }
+    ],
+    "prefixes": [
+      "tele",
+      "com"
+    ],
+    "suffixes": [
+      "er"
+    ],
+    "note": "Telecommuter contains tele + commuter; commute is com + mut = change or travel regularly."
+  },
+  "testimony": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "test",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "mony"
+    ],
+    "note": "Testimony derives from Latin testimonium with test = witness; mony is not the root."
+  },
+  "thesis": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "the",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "sis"
+    ],
+    "note": "Thesis contains the = put, place."
+  },
+  "thursday": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "prefixes": [],
+    "suffixes": [],
+    "note": "Thursday is a weekday name retained as an independent lexical item."
+  },
+  "tinplate": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "tin",
+        "useRootLearner": false
+      },
+      {
+        "form": "plate",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Tinplate is tin + plate."
+  },
+  "toothed": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "tooth",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ed"
+    ],
+    "note": "Toothed is tooth + ed, not tooth plus ed = eat."
+  },
+  "tradesman": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "trade",
+        "useRootLearner": false
+      },
+      {
+        "form": "man",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound; man = person, not hand or stay."
+  },
+  "trainload": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "train",
+        "useRootLearner": false
+      },
+      {
+        "form": "load",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Trainload is train + load."
+  },
+  "transparent": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "par",
+        "rootLearnerId": 279
+      }
+    ],
+    "prefixes": [
+      "trans"
+    ],
+    "suffixes": [
+      "ant"
+    ],
+    "note": "Transparent derives from trans + parere = appear, show through, not par = equal or give birth."
+  },
+  "transport": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "port",
+        "rootLearnerId": 314
+      }
+    ],
+    "prefixes": [
+      "trans"
+    ],
+    "note": "Transport is trans + port = carry across."
+  },
+  "transportation": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "port",
+        "rootLearnerId": 314
+      }
+    ],
+    "prefixes": [
+      "trans"
+    ],
+    "suffixes": [
+      "ion"
+    ],
+    "note": "Transportation belongs to transport and port = carry."
+  },
+  "trumpeter": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "trumpet",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "er"
+    ],
+    "note": "Trumpeter is trumpet + er; pet = seek and the ECDICT lemma trumpete are unrelated or erroneous."
+  },
+  "tuesday": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "prefixes": [],
+    "suffixes": [],
+    "note": "Tuesday is a weekday name retained as an independent lexical item."
+  },
+  "ultrasonic": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "son",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "ultra"
+    ],
+    "suffixes": [
+      "ic"
+    ],
+    "note": "Ultrasonic belongs to son = sound."
+  },
+  "ultrasonics": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "son",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "ultra"
+    ],
+    "suffixes": [
+      "ics"
+    ],
+    "note": "Ultrasonics is ultra + son = sound with ics."
+  },
+  "unanimous": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "un",
+        "useRootLearner": false
+      },
+      {
+        "form": "anim",
+        "rootLearnerId": 15
+      }
+    ],
+    "suffixes": [
+      "ous"
+    ],
+    "note": "Unanimous derives from Latin unanimus: un = one and anim = mind, spirit."
+  },
+  "unblemished": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "blemish",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "un"
+    ],
+    "suffixes": [
+      "ed"
+    ],
+    "note": "Unblemished is un + blemish + ed."
+  },
+  "unbridgeable": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "bridge",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "un"
+    ],
+    "suffixes": [
+      "able"
+    ],
+    "note": "Unbridgeable is un + bridge + able with the final e dropped."
+  },
+  "unbridled": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "bridle",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "un"
+    ],
+    "suffixes": [
+      "ed"
+    ],
+    "note": "Unbridled is un + bridle + ed with the final e dropped."
+  },
+  "underdeveloped": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "develop",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "under"
+    ],
+    "suffixes": [
+      "ed"
+    ],
+    "note": "Underdeveloped is under + develop + ed."
+  },
+  "undistorted": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "distort",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "un"
+    ],
+    "suffixes": [
+      "ed"
+    ],
+    "note": "Undistorted is un + distort + ed."
+  },
+  "unexpected": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "spect",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "un",
+      "ex"
+    ],
+    "suffixes": [
+      "ed"
+    ],
+    "note": "Unexpected is un + expect + ed; expect derives from ex + spect = look, not nex = bind."
+  },
+  "uninhabited": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "habit",
+        "rootLearnerId": 156
+      }
+    ],
+    "prefixes": [
+      "un",
+      "in"
+    ],
+    "suffixes": [
+      "ed"
+    ],
+    "note": "Uninhabited is un + inhabit + ed; inhabit belongs to habit = dwell."
+  },
+  "unobstructed": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "struct",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "un",
+      "ob"
+    ],
+    "suffixes": [
+      "ed"
+    ],
+    "note": "Unobstructed is un + obstruct + ed; struct = build."
+  },
+  "unpalatable": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "palatable",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "un"
+    ],
+    "note": "Unpalatable is un + palatable; lat = bring is unrelated."
+  },
+  "unseasonably": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "season",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "un"
+    ],
+    "suffixes": [
+      "ably"
+    ],
+    "note": "Unseasonably is un + season + ably."
+  },
+  "unspoiled": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "spoil",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "un"
+    ],
+    "suffixes": [
+      "ed"
+    ],
+    "note": "Unspoiled is un + spoil + ed."
+  },
+  "unsubstantiated": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "substantiate",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "un"
+    ],
+    "suffixes": [
+      "ed"
+    ],
+    "note": "Unsubstantiated is un + substantiate + ed with the final e dropped; anti = old is unrelated."
+  },
+  "untamed": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "tame",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "un"
+    ],
+    "suffixes": [
+      "d"
+    ],
+    "note": "Untamed is un + tame + d; med = middle is unrelated."
+  },
+  "upbraid": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "up",
+        "useRootLearner": false
+      },
+      {
+        "form": "braid",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Upbraid is historically up + braid, not up + bray; the ECDICT lemma upbray is erroneous."
+  },
+  "uprising": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "rise",
+        "useRootLearner": false
+      }
+    ],
+    "prefixes": [
+      "up"
+    ],
+    "suffixes": [
+      "ing"
+    ],
+    "note": "Uprising is up + rise + ing, not a free compound with the malformed ECDICT lemma uprise."
+  },
+  "upscale": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "up",
+        "useRootLearner": false
+      },
+      {
+        "form": "scale",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Upscale is up + scale."
+  },
+  "uptodate": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "note": "Fixed phrase normally written up-to-date; retain as a lexical item rather than splitting into function-word roots."
+  },
+  "urbanite": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "urban",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "ite"
+    ],
+    "note": "Urbanite is urban + ite; ban = prohibit is unrelated."
+  },
+  "videocassette": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "video",
+        "useRootLearner": false
+      },
+      {
+        "form": "cassette",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Videocassette is video + cassette."
+  },
+  "viral": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "virus",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "al"
+    ],
+    "note": "Viral is derived from virus + al with the base shortened to vir before the suffix."
+  },
+  "vitamine": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "vita",
+        "useRootLearner": false
+      },
+      {
+        "form": "amine",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "e"
+    ],
+    "note": "Vitamine is a vitamin spelling variant; vitamin was coined from vita = life and amine, not vita + mine."
+  },
+  "waggon": {
+    "category": "single-root",
+    "roots": [
+      {
+        "form": "wagon",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Waggon is a wagon spelling variant; retain the free-word base."
+  },
+  "walnut": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "note": "Historically a foreign nut, but wal is not a useful modern reusable root; retain walnut as a lexical item."
+  },
+  "warrantable": {
+    "category": "derived",
+    "roots": [
+      {
+        "form": "warrant",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "able"
+    ],
+    "note": "Warrantable is warrant + able."
+  },
+  "weaverbird": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "weave",
+        "useRootLearner": false
+      },
+      {
+        "form": "bird",
+        "useRootLearner": false
+      }
+    ],
+    "suffixes": [
+      "er"
+    ],
+    "note": "Weaverbird is weave + er + bird."
+  },
+  "website": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "web",
+        "useRootLearner": false
+      },
+      {
+        "form": "site",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent technical compound web + site."
+  },
+  "wednesday": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "prefixes": [],
+    "suffixes": [],
+    "note": "Wednesday is a weekday name retained as an independent lexical item."
+  },
+  "welfare": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "well",
+        "useRootLearner": false
+      },
+      {
+        "form": "fare",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Welfare is the transparent historical compound well + fare; wel is only a spelling variant."
+  },
+  "wetland": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "wet",
+        "useRootLearner": false
+      },
+      {
+        "form": "land",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound wet + land."
+  },
+  "wollongong": {
+    "category": "independent-reviewed",
+    "roots": [],
+    "note": "Australian place name; do not extract the English adjective long from its spelling."
+  },
+  "workload": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "work",
+        "useRootLearner": false
+      },
+      {
+        "form": "load",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound work + load."
+  },
+  "workman": {
+    "category": "compound",
+    "roots": [
+      {
+        "form": "work",
+        "useRootLearner": false
+      },
+      {
+        "form": "man",
+        "useRootLearner": false
+      }
+    ],
+    "note": "Transparent compound; man = person, not hand or stay."
+  }
+}

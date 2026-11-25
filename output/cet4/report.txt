@@ -1,0 +1,19 @@
+CET4 四级词根完整自动整理版
+来源：ECDICT 全部 cet4 标签，共 3834 个词条；无抽样、无遗漏。
+
+数据库或现有审核例词可靠覆盖：3821/3834 (99.7%)
+按可复用词根分组：1837/3834 (47.9%)，1176 个词根组。
+其中含至少 2 词的分组：433 个，覆盖 1185 词；仅 1 词的分组：743 个。
+独立或未自动归根词汇项：1997/3834 (52.1%)，不强行归根。
+剩余自动切分/归属复核队列：0/3834 (0.0%)。
+现有 RootLearner 释义可直接用于分组词：737/1837。
+本次从外部来源补充英文释义的词根组：776 个。
+补释义来源：{"ECDICT ecdict.csv": 635, "Wikipedia: List of Greek and Latin roots in English": 108, "Wiktionary English etymology": 33}
+仍未补英文释义的词根组：0 个。
+
+复核构成：{}
+完整逐词表：cet4-full.csv；按词根分组表：cet4-root-groups.csv。
+独立词：cet4-independent.csv；复核项：cet4-review.csv；待补根形：cet4-new-roots.csv。
+已补释义及逐条来源：cet4-supplemented-roots.csv。
+注意：自动复核队列为空不等于全部词源已经人工审定；独立词汇项也不等于词源上无根。
+许可：ECDICT 为 MIT；MorphoLex 及派生切分数据为 CC BY-NC-SA 4.0，仅限非商业使用并须署名、同许可共享；Wikipedia 与 Wiktionary 释义为 CC BY-SA 4.0，逐条来源页已保存在表内。

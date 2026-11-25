@@ -1,0 +1,21 @@
+{
+  "ECDICT": {
+    "url": "https://github.com/skywind3000/ECDICT",
+    "file": "ecdict.csv",
+    "license": "MIT",
+    "sha256": "d1ecbdf9ee2b920afb6f430ca6b6bb9f559588cf0dff86e04bd255f9390843cc"
+  },
+  "MorphoLex-EN": {
+    "url": "https://github.com/hugomailhot/MorphoLex-en",
+    "file": "MorphoLEX_en.xlsx",
+    "license": "CC BY-NC-SA 4.0",
+    "nonCommercialOnly": true,
+    "shareAlike": true,
+    "citation": "Sánchez-Gutiérrez et al. (2017), doi:10.3758/s13428-017-0981-8",
+    "sha256": "5bc425fbb710f3d63cab69e77ee731fa466653ed0ace94937cac6c1fd6de52c6"
+  },
+  "RootLearner": {
+    "path": "../root-learner/src/vocab.json",
+    "usage": "read-only root meanings and curated examples"
+  }
+}

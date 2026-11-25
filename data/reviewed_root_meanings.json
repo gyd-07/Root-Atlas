@@ -1,0 +1,1078 @@
+{
+  "source": {
+    "name": "Wiktionary English etymology",
+    "retrievedAt": "2026-11-19",
+    "license": "CC BY-SA 4.0; Wiktionary contributors",
+    "rawFiles": {
+      "data/raw/wiktionary-etymologies.json": "7c2a84ef2f40bc197673b4ce0d5a61a24cfb71f989623dd058c6ac40dbd5473b",
+      "data/raw/wiktionary-etymologies-extra.json": "bc2567d85c24acf1ab4d810e0a3fbef27760c164a1e1211e624746b78feb0053",
+      "data/raw/wiktionary-etymologies-pract.json": "6af99d5aefb50d9d96cc1ead39ff25d6821dd87e2a74cba95a58b3b6a95f6bdc",
+      "data/raw/wiktionary-etymologies-exams.json": "a27f781d2d4e7712002e5b3ce38c24612efb7304ea9be841bfcb487d593d529f"
+    }
+  },
+  "roots": [
+    {
+      "form": "adolesc",
+      "words": [
+        "adolescence",
+        "adolescent"
+      ],
+      "meaningEn": "grow up, become adult",
+      "sourceEntry": "adolescent",
+      "sourcePage": "https://en.wiktionary.org/wiki/adolescent"
+    },
+    {
+      "form": "ag",
+      "words": [
+        "ambiguity",
+        "ambiguous"
+      ],
+      "meaningEn": "drive, move",
+      "sourceEntry": "ambiguous",
+      "sourcePage": "https://en.wiktionary.org/wiki/ambiguous"
+    },
+    {
+      "form": "ag",
+      "words": [
+        "strategic",
+        "strategy"
+      ],
+      "meaningEn": "lead, conduct",
+      "sourceEntry": "strategy",
+      "sourcePage": "https://en.wiktionary.org/wiki/strategy"
+    },
+    {
+      "form": "all",
+      "words": [
+        "allergic",
+        "allergy"
+      ],
+      "meaningEn": "other",
+      "sourceEntry": "allergy",
+      "sourcePage": "https://en.wiktionary.org/wiki/allergy"
+    },
+    {
+      "form": "anomal",
+      "words": [
+        "anomalous",
+        "anomaly"
+      ],
+      "meaningEn": "uneven, irregular",
+      "sourceEntry": "anomaly",
+      "sourcePage": "https://en.wiktionary.org/wiki/anomaly"
+    },
+    {
+      "form": "anxi",
+      "words": [
+        "anxiety",
+        "anxious"
+      ],
+      "meaningEn": "anxious, distressed",
+      "sourceEntry": "anxiety",
+      "sourcePage": "https://en.wiktionary.org/wiki/anxiety"
+    },
+    {
+      "form": "atmo",
+      "words": [
+        "atmosphere",
+        "atmospheric"
+      ],
+      "meaningEn": "steam, vapor",
+      "sourceEntry": "atmosphere",
+      "sourcePage": "https://en.wiktionary.org/wiki/atmosphere"
+    },
+    {
+      "form": "bi",
+      "words": [
+        "billion"
+      ],
+      "meaningEn": "two",
+      "sourceEntry": "billion",
+      "sourcePage": "https://en.wiktionary.org/wiki/billion"
+    },
+    {
+      "form": "brilli",
+      "words": [
+        "brilliance",
+        "brilliant",
+        "brilliantly"
+      ],
+      "meaningEn": "shine",
+      "sourceEntry": "brilliant",
+      "sourcePage": "https://en.wiktionary.org/wiki/brilliant"
+    },
+    {
+      "form": "carbo",
+      "words": [
+        "carbohydrate"
+      ],
+      "meaningEn": "coal",
+      "sourceEntry": "carbohydrate",
+      "sourcePage": "https://en.wiktionary.org/wiki/carbohydrate"
+    },
+    {
+      "form": "categor",
+      "words": [
+        "categorical",
+        "categorize",
+        "category"
+      ],
+      "meaningEn": "category, class",
+      "sourceEntry": "category",
+      "sourcePage": "https://en.wiktionary.org/wiki/category"
+    },
+    {
+      "form": "caut",
+      "words": [
+        "caution",
+        "cautious",
+        "cautiously",
+        "precaution",
+        "precautions"
+      ],
+      "meaningEn": "be on one's guard",
+      "sourceEntry": "caution",
+      "sourcePage": "https://en.wiktionary.org/wiki/caution"
+    },
+    {
+      "form": "celebr",
+      "words": [
+        "celebrate",
+        "celebrated",
+        "celebrity"
+      ],
+      "meaningEn": "honor, celebrate",
+      "sourceEntry": "celebrate",
+      "sourcePage": "https://en.wiktionary.org/wiki/celebrate"
+    },
+    {
+      "form": "chir",
+      "words": [
+        "surgery"
+      ],
+      "meaningEn": "hand",
+      "sourceEntry": "surgery",
+      "sourcePage": "https://en.wiktionary.org/wiki/surgery"
+    },
+    {
+      "form": "chol",
+      "words": [
+        "melancholy"
+      ],
+      "meaningEn": "bile",
+      "sourceEntry": "melancholy",
+      "sourcePage": "https://en.wiktionary.org/wiki/melancholy"
+    },
+    {
+      "form": "clivity",
+      "words": [
+        "declivity",
+        "proclivity"
+      ],
+      "meaningEn": "slope",
+      "sourceEntry": "declivity",
+      "sourcePage": "https://en.wiktionary.org/wiki/declivity"
+    },
+    {
+      "form": "congru",
+      "words": [
+        "congruity",
+        "incongruity",
+        "incongruous"
+      ],
+      "meaningEn": "agree, be suitable",
+      "sourceEntry": "congruity",
+      "sourcePage": "https://en.wiktionary.org/wiki/congruity"
+    },
+    {
+      "form": "crasy",
+      "words": [
+        "idiosyncrasy"
+      ],
+      "meaningEn": "temperament",
+      "sourceEntry": "idiosyncrasy",
+      "sourcePage": "https://en.wiktionary.org/wiki/idiosyncrasy"
+    },
+    {
+      "form": "cret",
+      "words": [
+        "oversecretion",
+        "secretin"
+      ],
+      "meaningEn": "sift, separate",
+      "sourceEntry": "cern-, cer-",
+      "sourcePage": "https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English/C",
+      "source": "Wikipedia: List of Greek and Latin roots in English",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "form": "crimin",
+      "words": [
+        "criminal",
+        "incriminate"
+      ],
+      "meaningEn": "crime",
+      "sourceEntry": "criminal",
+      "sourcePage": "https://en.wiktionary.org/wiki/criminal"
+    },
+    {
+      "form": "crimin",
+      "words": [
+        "discriminate",
+        "discrimination",
+        "indiscriminately",
+        "indiscrimination"
+      ],
+      "meaningEn": "distinguish",
+      "sourceEntry": "discrimination",
+      "sourcePage": "https://en.wiktionary.org/wiki/discrimination"
+    },
+    {
+      "form": "crin",
+      "words": [
+        "exocrine"
+      ],
+      "meaningEn": "judge, separate",
+      "sourceEntry": "crit-, crisi-",
+      "sourcePage": "https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English/C",
+      "source": "Wikipedia: List of Greek and Latin roots in English",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "form": "cumul",
+      "words": [
+        "accumulate",
+        "cumulative"
+      ],
+      "meaningEn": "heap",
+      "sourceEntry": "accumulate",
+      "sourcePage": "https://en.wiktionary.org/wiki/accumulate"
+    },
+    {
+      "form": "extric",
+      "words": [
+        "extricate",
+        "inextricably"
+      ],
+      "meaningEn": "free, untangle",
+      "sourceEntry": "extricate",
+      "sourcePage": "https://en.wiktionary.org/wiki/extricate"
+    },
+    {
+      "form": "femin",
+      "words": [
+        "feminine",
+        "feminism",
+        "feminist"
+      ],
+      "meaningEn": "women, female",
+      "sourceEntry": "feminism",
+      "sourcePage": "https://en.wiktionary.org/wiki/feminism"
+    },
+    {
+      "form": "flagell",
+      "words": [
+        "flagella"
+      ],
+      "meaningEn": "whip",
+      "sourceEntry": "flagellum",
+      "sourcePage": "https://en.wiktionary.org/wiki/flagellum"
+    },
+    {
+      "form": "fragr",
+      "words": [
+        "fragrance",
+        "fragrant"
+      ],
+      "meaningEn": "pleasant smell",
+      "sourceEntry": "fragrance",
+      "sourcePage": "https://en.wiktionary.org/wiki/fragrance"
+    },
+    {
+      "form": "funer",
+      "words": [
+        "funeral",
+        "funereal"
+      ],
+      "meaningEn": "funeral, death, corpse",
+      "sourceEntry": "funeral",
+      "sourcePage": "https://en.wiktionary.org/wiki/funeral"
+    },
+    {
+      "form": "fung",
+      "words": [
+        "fungi",
+        "fungus"
+      ],
+      "meaningEn": "mushroom",
+      "sourceEntry": "fungus",
+      "sourcePage": "https://en.wiktionary.org/wiki/fungus"
+    },
+    {
+      "form": "harmon",
+      "words": [
+        "harmonic",
+        "harmonious",
+        "harmonize",
+        "harmony",
+        "philharmonic"
+      ],
+      "meaningEn": "agreement, concord",
+      "sourceEntry": "harmony",
+      "sourcePage": "https://en.wiktionary.org/wiki/harmony"
+    },
+    {
+      "form": "hom",
+      "words": [
+        "homicide"
+      ],
+      "meaningEn": "human",
+      "sourceEntry": "homin-",
+      "sourcePage": "https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English/H",
+      "source": "Wikipedia: List of Greek and Latin roots in English",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "form": "ichthy",
+      "words": [
+        "ichthyosaur"
+      ],
+      "meaningEn": "fish",
+      "sourceEntry": "ichthyosaur",
+      "sourcePage": "https://en.wiktionary.org/wiki/ichthyosaur"
+    },
+    {
+      "form": "ident",
+      "words": [
+        "identical",
+        "identifiable",
+        "identification",
+        "identify",
+        "identities",
+        "identity"
+      ],
+      "meaningEn": "the same",
+      "sourceEntry": "identity",
+      "sourcePage": "https://en.wiktionary.org/wiki/identity"
+    },
+    {
+      "form": "intim",
+      "words": [
+        "intimacy",
+        "intimate"
+      ],
+      "meaningEn": "inmost, innermost",
+      "sourceEntry": "intimate",
+      "sourcePage": "https://en.wiktionary.org/wiki/intimate"
+    },
+    {
+      "form": "irrig",
+      "words": [
+        "irrigate",
+        "irrigation"
+      ],
+      "meaningEn": "water, irrigate",
+      "sourceEntry": "irrigate",
+      "sourcePage": "https://en.wiktionary.org/wiki/irrigate"
+    },
+    {
+      "form": "irrit",
+      "words": [
+        "irritable",
+        "irritate",
+        "irritating"
+      ],
+      "meaningEn": "excite, irritate, incite",
+      "sourceEntry": "irritate",
+      "sourcePage": "https://en.wiktionary.org/wiki/irritate"
+    },
+    {
+      "form": "kym",
+      "words": [
+        "kymograph"
+      ],
+      "meaningEn": "wave",
+      "sourceEntry": "kymo-",
+      "sourcePage": "https://en.wiktionary.org/wiki/kymo-"
+    },
+    {
+      "form": "letharg",
+      "words": [
+        "lethargic",
+        "lethargy"
+      ],
+      "meaningEn": "forgetful, lethargic",
+      "sourceEntry": "lethargy",
+      "sourcePage": "https://en.wiktionary.org/wiki/lethargy"
+    },
+    {
+      "form": "lip",
+      "words": [
+        "lipid"
+      ],
+      "meaningEn": "animal fat",
+      "sourceEntry": "lipid",
+      "sourcePage": "https://en.wiktionary.org/wiki/lipid"
+    },
+    {
+      "form": "litho",
+      "words": [
+        "lithograph"
+      ],
+      "meaningEn": "stone",
+      "sourceEntry": "lithograph",
+      "sourcePage": "https://en.wiktionary.org/wiki/lithograph"
+    },
+    {
+      "form": "lubric",
+      "words": [
+        "lubricate",
+        "lubrication"
+      ],
+      "meaningEn": "slippery",
+      "sourceEntry": "lubricate",
+      "sourcePage": "https://en.wiktionary.org/wiki/lubricate"
+    },
+    {
+      "form": "man",
+      "words": [
+        "emanate"
+      ],
+      "meaningEn": "to flow",
+      "sourceEntry": "emanate",
+      "sourcePage": "https://en.wiktionary.org/wiki/emanate"
+    },
+    {
+      "form": "melo",
+      "words": [
+        "melodrama"
+      ],
+      "meaningEn": "song, tune, melody",
+      "sourceEntry": "melodrama",
+      "sourcePage": "https://en.wiktionary.org/wiki/melodrama"
+    },
+    {
+      "form": "melod",
+      "words": [
+        "melodic",
+        "melodious",
+        "melody"
+      ],
+      "meaningEn": "song, singing",
+      "sourceEntry": "melody",
+      "sourcePage": "https://en.wiktionary.org/wiki/melody"
+    },
+    {
+      "form": "meso",
+      "words": [
+        "mesozoic"
+      ],
+      "meaningEn": "middle",
+      "sourceEntry": "mes-",
+      "sourcePage": "https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English/M",
+      "source": "Wikipedia: List of Greek and Latin roots in English",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "form": "meteo",
+      "words": [
+        "meteoric",
+        "meteorite",
+        "meteorologist",
+        "meteorology"
+      ],
+      "meaningEn": "celestial phenomena; high in the sky",
+      "sourceEntry": "meteorology",
+      "sourcePage": "https://en.wiktionary.org/wiki/meteorology"
+    },
+    {
+      "form": "minister",
+      "words": [
+        "administer",
+        "administration",
+        "administrative",
+        "administrator",
+        "ministry"
+      ],
+      "meaningEn": "serve, assist",
+      "sourceEntry": "minister",
+      "sourcePage": "https://en.wiktionary.org/wiki/minister"
+    },
+    {
+      "form": "ministr",
+      "words": [
+        "administrate"
+      ],
+      "meaningEn": "serve, assist",
+      "sourceEntry": "minister",
+      "sourcePage": "https://en.wiktionary.org/wiki/minister"
+    },
+    {
+      "form": "mit",
+      "words": [
+        "neurotransmitter"
+      ],
+      "meaningEn": "send",
+      "sourceEntry": "mit-, miss-",
+      "sourcePage": "https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English/M",
+      "source": "Wikipedia: List of Greek and Latin roots in English",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "form": "mon",
+      "words": [
+        "monopolize"
+      ],
+      "meaningEn": "sole, alone",
+      "sourceEntry": "monopoly",
+      "sourcePage": "https://en.wiktionary.org/wiki/monopoly"
+    },
+    {
+      "form": "necess",
+      "words": [
+        "necessary",
+        "necessarily",
+        "necessitate",
+        "necessity",
+        "unnecessary"
+      ],
+      "meaningEn": "unavoidable, inevitable",
+      "sourceEntry": "necessary",
+      "sourcePage": "https://en.wiktionary.org/wiki/necessary"
+    },
+    {
+      "form": "negoti",
+      "words": [
+        "negotiate",
+        "negotiation"
+      ],
+      "meaningEn": "business",
+      "sourceEntry": "negotiate",
+      "sourcePage": "https://en.wiktionary.org/wiki/negotiate"
+    },
+    {
+      "form": "neo",
+      "words": [
+        "neoclassical"
+      ],
+      "meaningEn": "new",
+      "sourceEntry": "ne-, neo-",
+      "sourcePage": "https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English/N",
+      "source": "Wikipedia: List of Greek and Latin roots in English",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "form": "neutr",
+      "words": [
+        "neutral",
+        "neutron"
+      ],
+      "meaningEn": "neither",
+      "sourceEntry": "neuter",
+      "sourcePage": "https://en.wiktionary.org/wiki/neuter"
+    },
+    {
+      "form": "nitro",
+      "words": [
+        "nitrogen"
+      ],
+      "meaningEn": "natron, niter",
+      "sourceEntry": "niter",
+      "sourcePage": "https://en.wiktionary.org/wiki/niter"
+    },
+    {
+      "form": "noia",
+      "words": [
+        "paranoia"
+      ],
+      "meaningEn": "mind, spirit",
+      "sourceEntry": "paranoia",
+      "sourcePage": "https://en.wiktionary.org/wiki/paranoia"
+    },
+    {
+      "form": "oblivi",
+      "words": [
+        "oblivion",
+        "oblivious"
+      ],
+      "meaningEn": "forgetfulness; to forget",
+      "sourceEntry": "oblivion",
+      "sourcePage": "https://en.wiktionary.org/wiki/oblivion"
+    },
+    {
+      "form": "onto",
+      "words": [
+        "paleontologist"
+      ],
+      "meaningEn": "being, existence",
+      "sourceEntry": "ont-",
+      "sourcePage": "https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English/O",
+      "source": "Wikipedia: List of Greek and Latin roots in English",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "form": "opto",
+      "words": [
+        "optometrist"
+      ],
+      "meaningEn": "eye",
+      "sourceEntry": "ops-, opt- (ΟΠ)",
+      "sourcePage": "https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English/O",
+      "source": "Wikipedia: List of Greek and Latin roots in English",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "form": "paleo",
+      "words": [
+        "paleontologist"
+      ],
+      "meaningEn": "ancient, old",
+      "sourceEntry": "palae-, pale-",
+      "sourcePage": "https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English/P",
+      "source": "Wikipedia: List of Greek and Latin roots in English",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "form": "penetr",
+      "words": [
+        "penetrate",
+        "penetrating",
+        "penetration"
+      ],
+      "meaningEn": "enter, pierce",
+      "sourceEntry": "penetrate",
+      "sourcePage": "https://en.wiktionary.org/wiki/penetrate"
+    },
+    {
+      "form": "perme",
+      "words": [
+        "permeable",
+        "permeate"
+      ],
+      "meaningEn": "pass through",
+      "sourceEntry": "permeate",
+      "sourcePage": "https://en.wiktionary.org/wiki/permeate"
+    },
+    {
+      "form": "perpetu",
+      "words": [
+        "perpetual",
+        "perpetuate"
+      ],
+      "meaningEn": "continuous, perpetual",
+      "sourceEntry": "perpetual",
+      "sourcePage": "https://en.wiktionary.org/wiki/perpetual"
+    },
+    {
+      "form": "pher",
+      "words": [
+        "peripheral",
+        "periphery"
+      ],
+      "meaningEn": "bear, carry",
+      "sourceEntry": "pher-, phor-",
+      "sourcePage": "https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English/P",
+      "source": "Wikipedia: List of Greek and Latin roots in English",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "form": "plagiar",
+      "words": [
+        "plagiarism",
+        "plagiarize"
+      ],
+      "meaningEn": "kidnap",
+      "sourceEntry": "plagiary",
+      "sourcePage": "https://en.wiktionary.org/wiki/plagiary"
+    },
+    {
+      "form": "plaint",
+      "words": [
+        "plaintiff",
+        "plaintive"
+      ],
+      "meaningEn": "complaining; one who complains",
+      "sourceEntry": "plaintiff",
+      "sourcePage": "https://en.wiktionary.org/wiki/plaintiff"
+    },
+    {
+      "form": "pole",
+      "words": [
+        "monopolize",
+        "monopoly"
+      ],
+      "meaningEn": "barter, sell",
+      "sourceEntry": "monopoly",
+      "sourcePage": "https://en.wiktionary.org/wiki/monopoly"
+    },
+    {
+      "form": "pole",
+      "words": [
+        "polar",
+        "polarity"
+      ],
+      "meaningEn": "pole",
+      "sourceEntry": "polar",
+      "sourcePage": "https://en.wiktionary.org/wiki/polar"
+    },
+    {
+      "form": "pover",
+      "words": [
+        "impoverish",
+        "poverty"
+      ],
+      "meaningEn": "poor",
+      "sourceEntry": "poverty",
+      "sourcePage": "https://en.wiktionary.org/wiki/poverty"
+    },
+    {
+      "form": "pract",
+      "words": [
+        "impracticality",
+        "malpractice",
+        "practicable",
+        "practical",
+        "practicality",
+        "practically",
+        "practice",
+        "practise",
+        "practitioner"
+      ],
+      "meaningEn": "do, act",
+      "sourceEntry": "pragmatic",
+      "sourcePage": "https://en.wiktionary.org/wiki/pragmatic"
+    },
+    {
+      "form": "prodig",
+      "words": [
+        "prodigious",
+        "prodigy"
+      ],
+      "meaningEn": "omen, portent, prophetic sign",
+      "sourceEntry": "prodigy",
+      "sourcePage": "https://en.wiktionary.org/wiki/prodigy"
+    },
+    {
+      "form": "prodig",
+      "words": [
+        "prodigal"
+      ],
+      "meaningEn": "wasteful, lavish",
+      "sourceEntry": "prodigal",
+      "sourcePage": "https://en.wiktionary.org/wiki/prodigal"
+    },
+    {
+      "form": "rever",
+      "words": [
+        "irreverence",
+        "irreverent",
+        "revered",
+        "reverence",
+        "reverently"
+      ],
+      "meaningEn": "fear, respect",
+      "sourceEntry": "revere",
+      "sourcePage": "https://en.wiktionary.org/wiki/revere"
+    },
+    {
+      "form": "sacr",
+      "words": [
+        "sacrifice"
+      ],
+      "meaningEn": "sacred",
+      "sourceEntry": "sacrifice",
+      "sourcePage": "https://en.wiktionary.org/wiki/sacrifice"
+    },
+    {
+      "form": "sap",
+      "words": [
+        "sapience"
+      ],
+      "meaningEn": "taste, be wise",
+      "sourceEntry": "sapi-, -sipi-",
+      "sourcePage": "https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English/S",
+      "source": "Wikipedia: List of Greek and Latin roots in English",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "form": "scape",
+      "words": [
+        "scapegoat"
+      ],
+      "meaningEn": "escape",
+      "sourceEntry": "scapegoat",
+      "sourcePage": "https://en.wiktionary.org/wiki/scapegoat"
+    },
+    {
+      "form": "sci",
+      "words": [
+        "scientific",
+        "scientist"
+      ],
+      "meaningEn": "know",
+      "sourceEntry": "science",
+      "sourcePage": "https://en.wiktionary.org/wiki/science"
+    },
+    {
+      "form": "scrutin",
+      "words": [
+        "scrutinize",
+        "scrutiny"
+      ],
+      "meaningEn": "search, examine thoroughly",
+      "sourceEntry": "scrutiny",
+      "sourcePage": "https://en.wiktionary.org/wiki/scrutiny"
+    },
+    {
+      "form": "secute",
+      "words": [
+        "persecute",
+        "prosecute"
+      ],
+      "meaningEn": "follow",
+      "sourceEntry": "prosecute",
+      "sourcePage": "https://en.wiktionary.org/wiki/prosecute"
+    },
+    {
+      "form": "sid",
+      "words": [
+        "subsidiary",
+        "subsidy"
+      ],
+      "meaningEn": "sit",
+      "sourceEntry": "subsidy",
+      "sourcePage": "https://en.wiktionary.org/wiki/subsidy"
+    },
+    {
+      "form": "silic",
+      "words": [
+        "silica",
+        "silicate"
+      ],
+      "meaningEn": "hard stone, flint",
+      "sourceEntry": "silica",
+      "sourcePage": "https://en.wiktionary.org/wiki/silica"
+    },
+    {
+      "form": "skept",
+      "words": [
+        "skeptic"
+      ],
+      "meaningEn": "look at, examine",
+      "sourceEntry": "scept-, scop-",
+      "sourcePage": "https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English/S",
+      "source": "Wikipedia: List of Greek and Latin roots in English",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "form": "spontane",
+      "words": [
+        "spontaneity",
+        "spontaneous",
+        "spontaneously"
+      ],
+      "meaningEn": "of one's own accord, voluntary",
+      "sourceEntry": "spontaneous",
+      "sourcePage": "https://en.wiktionary.org/wiki/spontaneous"
+    },
+    {
+      "form": "stat",
+      "words": [
+        "static"
+      ],
+      "meaningEn": "make stand",
+      "sourceEntry": "static",
+      "sourcePage": "https://en.wiktionary.org/wiki/static"
+    },
+    {
+      "form": "stat",
+      "words": [
+        "station",
+        "stationary",
+        "stationery",
+        "stations"
+      ],
+      "meaningEn": "stand",
+      "sourceEntry": "stationary",
+      "sourcePage": "https://en.wiktionary.org/wiki/stationary"
+    },
+    {
+      "form": "stereo",
+      "words": [
+        "stereophotograph",
+        "stereotype"
+      ],
+      "meaningEn": "solid",
+      "sourceEntry": "stere-",
+      "sourcePage": "https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English/S",
+      "source": "Wikipedia: List of Greek and Latin roots in English",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "form": "still",
+      "words": [
+        "distill",
+        "instill"
+      ],
+      "meaningEn": "drip",
+      "sourceEntry": "still-",
+      "sourcePage": "https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English/S",
+      "source": "Wikipedia: List of Greek and Latin roots in English",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "form": "stipul",
+      "words": [
+        "stipulate",
+        "stipulation"
+      ],
+      "meaningEn": "demand a formal promise, stipulate",
+      "sourceEntry": "stipulate",
+      "sourcePage": "https://en.wiktionary.org/wiki/stipulate"
+    },
+    {
+      "form": "strat",
+      "words": [
+        "strategic",
+        "strategy"
+      ],
+      "meaningEn": "army",
+      "sourceEntry": "strategy",
+      "sourcePage": "https://en.wiktionary.org/wiki/strategy"
+    },
+    {
+      "form": "strat",
+      "words": [
+        "strata",
+        "stratum"
+      ],
+      "meaningEn": "spread, strew",
+      "sourceEntry": "stern-, strat-",
+      "sourcePage": "https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English/S",
+      "source": "Wikipedia: List of Greek and Latin roots in English",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "form": "syllab",
+      "words": [
+        "syllable"
+      ],
+      "meaningEn": "grasp, seize, take",
+      "sourceEntry": "lab-, lep-",
+      "sourcePage": "https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English/L",
+      "source": "Wikipedia: List of Greek and Latin roots in English",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "form": "syllab",
+      "words": [
+        "syllabus"
+      ],
+      "meaningEn": "parchment label, table of contents",
+      "sourceEntry": "syllabus",
+      "sourcePage": "https://en.wiktionary.org/wiki/syllabus"
+    },
+    {
+      "form": "tect",
+      "words": [
+        "tectonics"
+      ],
+      "meaningEn": "cover",
+      "sourceEntry": "teg-, tect-",
+      "sourcePage": "https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English/T",
+      "source": "Wikipedia: List of Greek and Latin roots in English",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "form": "terr",
+      "words": [
+        "terrible",
+        "terribly",
+        "terrific",
+        "terrify",
+        "terrifying",
+        "terror",
+        "terrorist"
+      ],
+      "meaningEn": "frighten, terrify",
+      "sourceEntry": "terrible",
+      "sourcePage": "https://en.wiktionary.org/wiki/terrible"
+    },
+    {
+      "form": "the",
+      "words": [
+        "hypothesize",
+        "photosynthesis",
+        "synthesizer"
+      ],
+      "meaningEn": "put",
+      "sourceEntry": "the- (ΘΕ)",
+      "sourcePage": "https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English/T",
+      "source": "Wikipedia: List of Greek and Latin roots in English",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "form": "toler",
+      "words": [
+        "tolerance",
+        "tolerant",
+        "tolerate"
+      ],
+      "meaningEn": "endure",
+      "sourceEntry": "tolerate",
+      "sourcePage": "https://en.wiktionary.org/wiki/tolerate"
+    },
+    {
+      "form": "veget",
+      "words": [
+        "vegetable",
+        "vegetarian",
+        "vegetation"
+      ],
+      "meaningEn": "able to live and grow; enliven",
+      "sourceEntry": "vegetable",
+      "sourcePage": "https://en.wiktionary.org/wiki/vegetable"
+    },
+    {
+      "form": "vertebr",
+      "words": [
+        "invertebrate",
+        "vertebrate"
+      ],
+      "meaningEn": "jointed",
+      "sourceEntry": "vertebrate",
+      "sourcePage": "https://en.wiktionary.org/wiki/vertebrate"
+    },
+    {
+      "form": "vibr",
+      "words": [
+        "vibrate",
+        "vibration"
+      ],
+      "meaningEn": "agitate, set in tremulous motion",
+      "sourceEntry": "vibrate",
+      "sourcePage": "https://en.wiktionary.org/wiki/vibrate"
+    },
+    {
+      "form": "volcan",
+      "words": [
+        "volcanic",
+        "volcano"
+      ],
+      "meaningEn": "Vulcan, Roman god of fire and metalworking",
+      "sourceEntry": "volcano",
+      "sourcePage": "https://en.wiktionary.org/wiki/volcano"
+    },
+    {
+      "form": "zo",
+      "words": [
+        "mesozoic"
+      ],
+      "meaningEn": "animal",
+      "sourceEntry": "zo-",
+      "sourcePage": "https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English/Z",
+      "source": "Wikipedia: List of Greek and Latin roots in English",
+      "license": "CC BY-SA 4.0"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "exam": "IELTS",
+  "sourceTagCount": 5007,
+  "totalWords": 5007,
+  "uniqueWords": 5007,
+  "selection": "All ECDICT entries tagged ielts; no sampling",
+  "examMembership": {
+    "CET4": 2144,
+    "CET6": 3040,
+    "IELTS": 5007,
+    "TOEFL": 2909
+  },
+  "confidenceCounts": {
+    "curated+database": 436,
+    "database": 4404,
+    "reviewed": 167
+  },
+  "categoryCounts": {
+    "compound": 233,
+    "derived": 1756,
+    "independent-reviewed": 60,
+    "single-root": 2958
+  },
+  "databaseRootSegmented": 4988,
+  "databaseCoveragePercent": 99.6,
+  "databaseCoverageWarning": "Database coverage includes single-root lexical items and is not reusable-root coverage",
+  "rootGroupedWords": 2313,
+  "rootGroupedPercent": 46.2,
+  "rootGroups": 1442,
+  "multiWordRootGroups": 533,
+  "singletonRootGroups": 909,
+  "wordsInMultiWordGroups": 1522,
+  "rootGroupMemberships": 2548,
+  "independentWords": 2694,
+  "independentWordPercent": 53.8,
+  "reviewWords": 0,
+  "reviewPercent": 0.0,
+  "curatedConflicts": 0,
+  "ambiguousRoots": 0,
+  "partialDatabaseEntries": 0,
+  "ruleCandidates": 0,
+  "unresolved": 0,
+  "groupedWordsWithRootLearnerMeaning": 1038,
+  "groupedWordsWithEnglishMeaning": 2313,
+  "supplementedRootForms": 923,
+  "supplementedRootFormsBySource": {
+    "ECDICT ecdict.csv": 701,
+    "Wikipedia: List of Greek and Latin roots in English": 165,
+    "Wiktionary English etymology": 57
+  },
+  "newRootFormsNeedingMeanings": 0,
+  "rootMeaningReviewReasons": {},
+  "partitionCheck": true
+}

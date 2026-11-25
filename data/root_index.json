@@ -1,0 +1,4988 @@
+{
+  "source": "C:/Users/yundi/Documents/deepseek-harness/default-workspace/root-learner/src/vocab.json",
+  "roots": [
+    {
+      "id": 1,
+      "forms": [
+        "ac",
+        "acid",
+        "acri",
+        "acrid",
+        "acu"
+      ],
+      "meaningEn": "sour, sharp"
+    },
+    {
+      "id": 2,
+      "forms": [
+        "acro"
+      ],
+      "meaningEn": "top"
+    },
+    {
+      "id": 3,
+      "forms": [
+        "act"
+      ],
+      "meaningEn": "to do, to drive"
+    },
+    {
+      "id": 4,
+      "forms": [
+        "aer",
+        "aeri",
+        "aero"
+      ],
+      "meaningEn": "air"
+    },
+    {
+      "id": 5,
+      "forms": [
+        "ag"
+      ],
+      "meaningEn": "to do, to act"
+    },
+    {
+      "id": 6,
+      "forms": [
+        "agon"
+      ],
+      "meaningEn": "struggle"
+    },
+    {
+      "id": 7,
+      "forms": [
+        "agr",
+        "agri",
+        "agro"
+      ],
+      "meaningEn": "field, land"
+    },
+    {
+      "id": 8,
+      "forms": [
+        "alb"
+      ],
+      "meaningEn": "white"
+    },
+    {
+      "id": 9,
+      "forms": [
+        "alt"
+      ],
+      "meaningEn": "high"
+    },
+    {
+      "id": 10,
+      "forms": [
+        "ali",
+        "alter"
+      ],
+      "meaningEn": "other, to change"
+    },
+    {
+      "id": 11,
+      "forms": [
+        "am",
+        "amor"
+      ],
+      "meaningEn": "love"
+    },
+    {
+      "id": 12,
+      "forms": [
+        "ambul"
+      ],
+      "meaningEn": "to walk"
+    },
+    {
+      "id": 13,
+      "forms": [
+        "ampl",
+        "ample"
+      ],
+      "meaningEn": "large"
+    },
+    {
+      "id": 14,
+      "forms": [
+        "anc",
+        "anti"
+      ],
+      "meaningEn": "old"
+    },
+    {
+      "id": 15,
+      "forms": [
+        "anim"
+      ],
+      "meaningEn": "life, spirit"
+    },
+    {
+      "id": 16,
+      "forms": [
+        "ann",
+        "enn"
+      ],
+      "meaningEn": "year"
+    },
+    {
+      "id": 17,
+      "forms": [
+        "anthrop"
+      ],
+      "meaningEn": "man, human"
+    },
+    {
+      "id": 18,
+      "forms": [
+        "apt",
+        "ept"
+      ],
+      "meaningEn": "to fit, ability"
+    },
+    {
+      "id": 19,
+      "forms": [
+        "aqu"
+      ],
+      "meaningEn": "water"
+    },
+    {
+      "id": 20,
+      "forms": [
+        "arbit"
+      ],
+      "meaningEn": "to judge"
+    },
+    {
+      "id": 21,
+      "forms": [
+        "arch",
+        "archy"
+      ],
+      "meaningEn": "ruler, rule, chief"
+    },
+    {
+      "id": 22,
+      "forms": [
+        "arm"
+      ],
+      "meaningEn": "weapon"
+    },
+    {
+      "id": 23,
+      "forms": [
+        "art"
+      ],
+      "meaningEn": "skill, joint, trick"
+    },
+    {
+      "id": 24,
+      "forms": [
+        "aster",
+        "astro"
+      ],
+      "meaningEn": "star"
+    },
+    {
+      "id": 25,
+      "forms": [
+        "audi",
+        "audit"
+      ],
+      "meaningEn": "to hear"
+    },
+    {
+      "id": 26,
+      "forms": [
+        "aug"
+      ],
+      "meaningEn": "to increase"
+    },
+    {
+      "id": 28,
+      "forms": [
+        "av",
+        "avar",
+        "avi"
+      ],
+      "meaningEn": "desire, bird"
+    },
+    {
+      "id": 29,
+      "forms": [
+        "ball",
+        "bol"
+      ],
+      "meaningEn": "to throw, dance, ball"
+    },
+    {
+      "id": 30,
+      "forms": [
+        "balm"
+      ],
+      "meaningEn": "balsam"
+    },
+    {
+      "id": 31,
+      "forms": [
+        "ban"
+      ],
+      "meaningEn": "to prohibit"
+    },
+    {
+      "id": 32,
+      "forms": [
+        "bar"
+      ],
+      "meaningEn": "weight, stick"
+    },
+    {
+      "id": 33,
+      "forms": [
+        "bas",
+        "base"
+      ],
+      "meaningEn": "low, foundation"
+    },
+    {
+      "id": 34,
+      "forms": [
+        "bat"
+      ],
+      "meaningEn": "to beat"
+    },
+    {
+      "id": 35,
+      "forms": [
+        "bel",
+        "bell"
+      ],
+      "meaningEn": "war, to fight"
+    },
+    {
+      "id": 36,
+      "forms": [
+        "cad",
+        "cas",
+        "cid"
+      ],
+      "meaningEn": "to fall"
+    },
+    {
+      "id": 37,
+      "forms": [
+        "cand"
+      ],
+      "meaningEn": "white, glow"
+    },
+    {
+      "id": 38,
+      "forms": [
+        "cant",
+        "cent"
+      ],
+      "meaningEn": "song, to sing"
+    },
+    {
+      "id": 39,
+      "forms": [
+        "cap",
+        "capt",
+        "ceive",
+        "cept",
+        "cip",
+        "cup"
+      ],
+      "meaningEn": "to take, to hold"
+    },
+    {
+      "id": 40,
+      "forms": [
+        "cap",
+        "cipit"
+      ],
+      "meaningEn": "head"
+    },
+    {
+      "id": 41,
+      "forms": [
+        "card",
+        "cord"
+      ],
+      "meaningEn": "heart"
+    },
+    {
+      "id": 42,
+      "forms": [
+        "carn"
+      ],
+      "meaningEn": "flesh"
+    },
+    {
+      "id": 43,
+      "forms": [
+        "ced",
+        "ceed",
+        "cess"
+      ],
+      "meaningEn": "to go"
+    },
+    {
+      "id": 44,
+      "forms": [
+        "celer"
+      ],
+      "meaningEn": "quick, speed"
+    },
+    {
+      "id": 45,
+      "forms": [
+        "cent"
+      ],
+      "meaningEn": "hundred"
+    },
+    {
+      "id": 46,
+      "forms": [
+        "center",
+        "centr"
+      ],
+      "meaningEn": "center"
+    },
+    {
+      "id": 47,
+      "forms": [
+        "cern",
+        "cert",
+        "cret"
+      ],
+      "meaningEn": "sure"
+    },
+    {
+      "id": 48,
+      "forms": [
+        "chron"
+      ],
+      "meaningEn": "time"
+    },
+    {
+      "id": 49,
+      "forms": [
+        "cid",
+        "cis"
+      ],
+      "meaningEn": "to cut, to kill"
+    },
+    {
+      "id": 50,
+      "forms": [
+        "circ",
+        "cycl"
+      ],
+      "meaningEn": "ring, circle"
+    },
+    {
+      "id": 51,
+      "forms": [
+        "cit"
+      ],
+      "meaningEn": "to quote, to call"
+    },
+    {
+      "id": 52,
+      "forms": [
+        "claim",
+        "clam"
+      ],
+      "meaningEn": "cry out, shout"
+    },
+    {
+      "id": 53,
+      "forms": [
+        "clair",
+        "clar",
+        "clear"
+      ],
+      "meaningEn": "clear, bright"
+    },
+    {
+      "id": 54,
+      "forms": [
+        "clin",
+        "cliv"
+      ],
+      "meaningEn": "to lean, slope"
+    },
+    {
+      "id": 55,
+      "forms": [
+        "clos",
+        "clud",
+        "clus"
+      ],
+      "meaningEn": "to close"
+    },
+    {
+      "id": 56,
+      "forms": [
+        "corp",
+        "corpor"
+      ],
+      "meaningEn": "body"
+    },
+    {
+      "id": 57,
+      "forms": [
+        "cracy",
+        "crat"
+      ],
+      "meaningEn": "to rule, ruler"
+    },
+    {
+      "id": 58,
+      "forms": [
+        "cred",
+        "creed"
+      ],
+      "meaningEn": "to believe, to trust"
+    },
+    {
+      "id": 59,
+      "forms": [
+        "calor"
+      ],
+      "meaningEn": "heat"
+    },
+    {
+      "id": 60,
+      "forms": [
+        "camp"
+      ],
+      "meaningEn": "field"
+    },
+    {
+      "id": 61,
+      "forms": [
+        "car",
+        "char"
+      ],
+      "meaningEn": "dear"
+    },
+    {
+      "id": 62,
+      "forms": [
+        "card",
+        "chart"
+      ],
+      "meaningEn": "paper"
+    },
+    {
+      "id": 63,
+      "forms": [
+        "cav"
+      ],
+      "meaningEn": "hole"
+    },
+    {
+      "id": 64,
+      "forms": [
+        "cens"
+      ],
+      "meaningEn": "to judge"
+    },
+    {
+      "id": 65,
+      "forms": [
+        "chor"
+      ],
+      "meaningEn": "to dance, to sing"
+    },
+    {
+      "id": 66,
+      "forms": [
+        "chrom"
+      ],
+      "meaningEn": "color"
+    },
+    {
+      "id": 67,
+      "forms": [
+        "cil"
+      ],
+      "meaningEn": "to call"
+    },
+    {
+      "id": 68,
+      "forms": [
+        "civ"
+      ],
+      "meaningEn": "citizen"
+    },
+    {
+      "id": 69,
+      "forms": [
+        "coct"
+      ],
+      "meaningEn": "to cook"
+    },
+    {
+      "id": 70,
+      "forms": [
+        "cogn"
+      ],
+      "meaningEn": "to know"
+    },
+    {
+      "id": 71,
+      "forms": [
+        "cosm(o)"
+      ],
+      "meaningEn": "world"
+    },
+    {
+      "id": 72,
+      "forms": [
+        "cris",
+        "crit"
+      ],
+      "meaningEn": "to judge, to discern"
+    },
+    {
+      "id": 73,
+      "forms": [
+        "cryo"
+      ],
+      "meaningEn": "cold"
+    },
+    {
+      "id": 74,
+      "forms": [
+        "custom"
+      ],
+      "meaningEn": "habit"
+    },
+    {
+      "id": 75,
+      "forms": [
+        "cour",
+        "cours",
+        "cur",
+        "curs"
+      ],
+      "meaningEn": "to run"
+    },
+    {
+      "id": 76,
+      "forms": [
+        "cur"
+      ],
+      "meaningEn": "to care"
+    },
+    {
+      "id": 77,
+      "forms": [
+        "cult"
+      ],
+      "meaningEn": "to till"
+    },
+    {
+      "id": 78,
+      "forms": [
+        "cub",
+        "cumb"
+      ],
+      "meaningEn": "to lie down"
+    },
+    {
+      "id": 79,
+      "forms": [
+        "crypt"
+      ],
+      "meaningEn": "secret, hidden"
+    },
+    {
+      "id": 80,
+      "forms": [
+        "cru",
+        "crus",
+        "crux"
+      ],
+      "meaningEn": "to cross"
+    },
+    {
+      "id": 81,
+      "forms": [
+        "cre",
+        "crease"
+      ],
+      "meaningEn": "to grow, to make"
+    },
+    {
+      "id": 82,
+      "forms": [
+        "demn"
+      ],
+      "meaningEn": "harm"
+    },
+    {
+      "id": 83,
+      "forms": [
+        "dem(o)"
+      ],
+      "meaningEn": "people"
+    },
+    {
+      "id": 84,
+      "forms": [
+        "dens"
+      ],
+      "meaningEn": "to make thick"
+    },
+    {
+      "id": 85,
+      "forms": [
+        "dent"
+      ],
+      "meaningEn": "tooth"
+    },
+    {
+      "id": 86,
+      "forms": [
+        "derm",
+        "dermat"
+      ],
+      "meaningEn": "skin"
+    },
+    {
+      "id": 87,
+      "forms": [
+        "dexter"
+      ],
+      "meaningEn": "right"
+    },
+    {
+      "id": 88,
+      "forms": [
+        "di"
+      ],
+      "meaningEn": "day"
+    },
+    {
+      "id": 89,
+      "forms": [
+        "dicat",
+        "dict"
+      ],
+      "meaningEn": "to say, to assert"
+    },
+    {
+      "id": 90,
+      "forms": [
+        "dign"
+      ],
+      "meaningEn": "worthy, noble"
+    },
+    {
+      "id": 91,
+      "forms": [
+        "doc",
+        "doct"
+      ],
+      "meaningEn": "to teach"
+    },
+    {
+      "id": 92,
+      "forms": [
+        "dit",
+        "don"
+      ],
+      "meaningEn": "to give"
+    },
+    {
+      "id": 93,
+      "forms": [
+        "dom"
+      ],
+      "meaningEn": "house"
+    },
+    {
+      "id": 94,
+      "forms": [
+        "dorm"
+      ],
+      "meaningEn": "to sleep"
+    },
+    {
+      "id": 95,
+      "forms": [
+        "draw"
+      ],
+      "meaningEn": "to pull"
+    },
+    {
+      "id": 96,
+      "forms": [
+        "drom"
+      ],
+      "meaningEn": "to run"
+    },
+    {
+      "id": 97,
+      "forms": [
+        "dou",
+        "du",
+        "dub"
+      ],
+      "meaningEn": "two"
+    },
+    {
+      "id": 98,
+      "forms": [
+        "duc",
+        "duct"
+      ],
+      "meaningEn": "to lead, to bring"
+    },
+    {
+      "id": 99,
+      "forms": [
+        "dur"
+      ],
+      "meaningEn": "last, hard"
+    },
+    {
+      "id": 100,
+      "forms": [
+        "dyn",
+        "dynam"
+      ],
+      "meaningEn": "power"
+    },
+    {
+      "id": 101,
+      "forms": [
+        "ed"
+      ],
+      "meaningEn": "to eat"
+    },
+    {
+      "id": 102,
+      "forms": [
+        "ego"
+      ],
+      "meaningEn": "I"
+    },
+    {
+      "id": 103,
+      "forms": [
+        "amp",
+        "em",
+        "empt"
+      ],
+      "meaningEn": "to take, to procure"
+    },
+    {
+      "id": 104,
+      "forms": [
+        "emper",
+        "imper"
+      ],
+      "meaningEn": "to command"
+    },
+    {
+      "id": 105,
+      "forms": [
+        "equ",
+        "equi"
+      ],
+      "meaningEn": "equal, even"
+    },
+    {
+      "id": 106,
+      "forms": [
+        "erg",
+        "ert"
+      ],
+      "meaningEn": "energy, to work"
+    },
+    {
+      "id": 107,
+      "forms": [
+        "err"
+      ],
+      "meaningEn": "to wander, mistake"
+    },
+    {
+      "id": 108,
+      "forms": [
+        "esthet"
+      ],
+      "meaningEn": "feeling"
+    },
+    {
+      "id": 109,
+      "forms": [
+        "extr"
+      ],
+      "meaningEn": "out"
+    },
+    {
+      "id": 110,
+      "forms": [
+        "ev"
+      ],
+      "meaningEn": "age"
+    },
+    {
+      "id": 111,
+      "forms": [
+        "fabl",
+        "fabul"
+      ],
+      "meaningEn": "to speak"
+    },
+    {
+      "id": 112,
+      "forms": [
+        "fabric"
+      ],
+      "meaningEn": "to make"
+    },
+    {
+      "id": 113,
+      "forms": [
+        "fac",
+        "fic"
+      ],
+      "meaningEn": "face"
+    },
+    {
+      "id": 114,
+      "forms": [
+        "fac",
+        "fact",
+        "fect",
+        "fic",
+        "fig"
+      ],
+      "meaningEn": "to make, to do"
+    },
+    {
+      "id": 115,
+      "forms": [
+        "fail",
+        "fall",
+        "fault"
+      ],
+      "meaningEn": "err, to deceive"
+    },
+    {
+      "id": 116,
+      "forms": [
+        "feder"
+      ],
+      "meaningEn": "league"
+    },
+    {
+      "id": 117,
+      "forms": [
+        "fer"
+      ],
+      "meaningEn": "to bring, to carry"
+    },
+    {
+      "id": 118,
+      "forms": [
+        "ferv"
+      ],
+      "meaningEn": "boil"
+    },
+    {
+      "id": 119,
+      "forms": [
+        "fess"
+      ],
+      "meaningEn": "to speak"
+    },
+    {
+      "id": 120,
+      "forms": [
+        "fest"
+      ],
+      "meaningEn": "to strike, feast"
+    },
+    {
+      "id": 121,
+      "forms": [
+        "fid"
+      ],
+      "meaningEn": "to trust, faith"
+    },
+    {
+      "id": 122,
+      "forms": [
+        "fil"
+      ],
+      "meaningEn": "thread"
+    },
+    {
+      "id": 123,
+      "forms": [
+        "fin"
+      ],
+      "meaningEn": "to end, boundary"
+    },
+    {
+      "id": 124,
+      "forms": [
+        "firm"
+      ],
+      "meaningEn": "firm"
+    },
+    {
+      "id": 125,
+      "forms": [
+        "fix"
+      ],
+      "meaningEn": "to fix"
+    },
+    {
+      "id": 126,
+      "forms": [
+        "flagr",
+        "flam"
+      ],
+      "meaningEn": "blaze"
+    },
+    {
+      "id": 127,
+      "forms": [
+        "flat"
+      ],
+      "meaningEn": "to blow"
+    },
+    {
+      "id": 128,
+      "forms": [
+        "flect",
+        "flex"
+      ],
+      "meaningEn": "to bend"
+    },
+    {
+      "id": 129,
+      "forms": [
+        "flict"
+      ],
+      "meaningEn": "to strike"
+    },
+    {
+      "id": 130,
+      "forms": [
+        "flor",
+        "flour"
+      ],
+      "meaningEn": "flower"
+    },
+    {
+      "id": 131,
+      "forms": [
+        "flu"
+      ],
+      "meaningEn": "to flow"
+    },
+    {
+      "id": 132,
+      "forms": [
+        "forc",
+        "fort"
+      ],
+      "meaningEn": "strong"
+    },
+    {
+      "id": 133,
+      "forms": [
+        "form"
+      ],
+      "meaningEn": "shape"
+    },
+    {
+      "id": 134,
+      "forms": [
+        "found",
+        "fund"
+      ],
+      "meaningEn": "base"
+    },
+    {
+      "id": 135,
+      "forms": [
+        "fract",
+        "frag"
+      ],
+      "meaningEn": "to break"
+    },
+    {
+      "id": 136,
+      "forms": [
+        "frig"
+      ],
+      "meaningEn": "cold"
+    },
+    {
+      "id": 137,
+      "forms": [
+        "front"
+      ],
+      "meaningEn": "forehead"
+    },
+    {
+      "id": 138,
+      "forms": [
+        "fug"
+      ],
+      "meaningEn": "to flee"
+    },
+    {
+      "id": 139,
+      "forms": [
+        "fus"
+      ],
+      "meaningEn": "to pour"
+    },
+    {
+      "id": 140,
+      "forms": [
+        "gam"
+      ],
+      "meaningEn": "marriage"
+    },
+    {
+      "id": 141,
+      "forms": [
+        "gar"
+      ],
+      "meaningEn": "to furnish"
+    },
+    {
+      "id": 142,
+      "forms": [
+        "gen",
+        "genit"
+      ],
+      "meaningEn": "birth, to produce"
+    },
+    {
+      "id": 143,
+      "forms": [
+        "geo"
+      ],
+      "meaningEn": "earth"
+    },
+    {
+      "id": 144,
+      "forms": [
+        "germ"
+      ],
+      "meaningEn": "seed"
+    },
+    {
+      "id": 145,
+      "forms": [
+        "gest",
+        "gister"
+      ],
+      "meaningEn": "to carry, to bring"
+    },
+    {
+      "id": 146,
+      "forms": [
+        "glaci"
+      ],
+      "meaningEn": "ice"
+    },
+    {
+      "id": 147,
+      "forms": [
+        "gnor",
+        "gnos"
+      ],
+      "meaningEn": "to know"
+    },
+    {
+      "id": 148,
+      "forms": [
+        "grad"
+      ],
+      "meaningEn": "step, grade"
+    },
+    {
+      "id": 149,
+      "forms": [
+        "gram",
+        "graph"
+      ],
+      "meaningEn": "to write"
+    },
+    {
+      "id": 150,
+      "forms": [
+        "gran"
+      ],
+      "meaningEn": "grain"
+    },
+    {
+      "id": 151,
+      "forms": [
+        "grat",
+        "gree"
+      ],
+      "meaningEn": "pleasing"
+    },
+    {
+      "id": 152,
+      "forms": [
+        "grav",
+        "griev"
+      ],
+      "meaningEn": "heavy"
+    },
+    {
+      "id": 153,
+      "forms": [
+        "greg"
+      ],
+      "meaningEn": "group"
+    },
+    {
+      "id": 154,
+      "forms": [
+        "gress"
+      ],
+      "meaningEn": "to go, to walk"
+    },
+    {
+      "id": 155,
+      "forms": [
+        "gyn",
+        "gyneco"
+      ],
+      "meaningEn": "woman"
+    },
+    {
+      "id": 156,
+      "forms": [
+        "habit"
+      ],
+      "meaningEn": "to dwell"
+    },
+    {
+      "id": 157,
+      "forms": [
+        "hal"
+      ],
+      "meaningEn": "to breathe"
+    },
+    {
+      "id": 158,
+      "forms": [
+        "hap"
+      ],
+      "meaningEn": "chance"
+    },
+    {
+      "id": 159,
+      "forms": [
+        "hav"
+      ],
+      "meaningEn": "to possess"
+    },
+    {
+      "id": 160,
+      "forms": [
+        "head"
+      ],
+      "meaningEn": "head"
+    },
+    {
+      "id": 161,
+      "forms": [
+        "heli(o)"
+      ],
+      "meaningEn": "sun"
+    },
+    {
+      "id": 162,
+      "forms": [
+        "helic(o)"
+      ],
+      "meaningEn": "to spiral"
+    },
+    {
+      "id": 163,
+      "forms": [
+        "her",
+        "hes"
+      ],
+      "meaningEn": "to stick"
+    },
+    {
+      "id": 164,
+      "forms": [
+        "hibit"
+      ],
+      "meaningEn": "to hold"
+    },
+    {
+      "id": 165,
+      "forms": [
+        "hilar"
+      ],
+      "meaningEn": "glad"
+    },
+    {
+      "id": 166,
+      "forms": [
+        "hor"
+      ],
+      "meaningEn": "to shudder, dread"
+    },
+    {
+      "id": 167,
+      "forms": [
+        "hospit"
+      ],
+      "meaningEn": "guest"
+    },
+    {
+      "id": 168,
+      "forms": [
+        "hum"
+      ],
+      "meaningEn": "earth"
+    },
+    {
+      "id": 169,
+      "forms": [
+        "hydr",
+        "hydro"
+      ],
+      "meaningEn": "water"
+    },
+    {
+      "id": 170,
+      "forms": [
+        "hypno"
+      ],
+      "meaningEn": "to sleep"
+    },
+    {
+      "id": 171,
+      "forms": [
+        "idea",
+        "ideo"
+      ],
+      "meaningEn": "idea"
+    },
+    {
+      "id": 172,
+      "forms": [
+        "idio"
+      ],
+      "meaningEn": "peculiar, private"
+    },
+    {
+      "id": 173,
+      "forms": [
+        "idol"
+      ],
+      "meaningEn": "image"
+    },
+    {
+      "id": 174,
+      "forms": [
+        "imag",
+        "imit"
+      ],
+      "meaningEn": "likeness"
+    },
+    {
+      "id": 175,
+      "forms": [
+        "insul"
+      ],
+      "meaningEn": "island"
+    },
+    {
+      "id": 176,
+      "forms": [
+        "integr"
+      ],
+      "meaningEn": "whole"
+    },
+    {
+      "id": 177,
+      "forms": [
+        "it"
+      ],
+      "meaningEn": "to go"
+    },
+    {
+      "id": 178,
+      "forms": [
+        "ject"
+      ],
+      "meaningEn": "to throw, to cast"
+    },
+    {
+      "id": 179,
+      "forms": [
+        "joc"
+      ],
+      "meaningEn": "joke"
+    },
+    {
+      "id": 180,
+      "forms": [
+        "journ"
+      ],
+      "meaningEn": "day"
+    },
+    {
+      "id": 181,
+      "forms": [
+        "jud",
+        "judg"
+      ],
+      "meaningEn": "to judge"
+    },
+    {
+      "id": 182,
+      "forms": [
+        "join",
+        "junct"
+      ],
+      "meaningEn": "to join"
+    },
+    {
+      "id": 183,
+      "forms": [
+        "jur"
+      ],
+      "meaningEn": "to swear, law"
+    },
+    {
+      "id": 184,
+      "forms": [
+        "juven"
+      ],
+      "meaningEn": "young"
+    },
+    {
+      "id": 185,
+      "forms": [
+        "labor"
+      ],
+      "meaningEn": "labor"
+    },
+    {
+      "id": 186,
+      "forms": [
+        "lact"
+      ],
+      "meaningEn": "milk"
+    },
+    {
+      "id": 187,
+      "forms": [
+        "langu"
+      ],
+      "meaningEn": "faint"
+    },
+    {
+      "id": 188,
+      "forms": [
+        "laps"
+      ],
+      "meaningEn": "to slip"
+    },
+    {
+      "id": 189,
+      "forms": [
+        "lat"
+      ],
+      "meaningEn": "bring out"
+    },
+    {
+      "id": 190,
+      "forms": [
+        "later"
+      ],
+      "meaningEn": "side"
+    },
+    {
+      "id": 191,
+      "forms": [
+        "lav",
+        "lut",
+        "luv"
+      ],
+      "meaningEn": "to wash"
+    },
+    {
+      "id": 192,
+      "forms": [
+        "lax"
+      ],
+      "meaningEn": "loose"
+    },
+    {
+      "id": 193,
+      "forms": [
+        "lect",
+        "lig"
+      ],
+      "meaningEn": "to choose, to gather"
+    },
+    {
+      "id": 194,
+      "forms": [
+        "lect",
+        "leg"
+      ],
+      "meaningEn": "to speak, to read"
+    },
+    {
+      "id": 195,
+      "forms": [
+        "leg",
+        "legis"
+      ],
+      "meaningEn": "law"
+    },
+    {
+      "id": 196,
+      "forms": [
+        "lev",
+        "live"
+      ],
+      "meaningEn": "to raise, to lighten"
+    },
+    {
+      "id": 197,
+      "forms": [
+        "liber"
+      ],
+      "meaningEn": "free"
+    },
+    {
+      "id": 198,
+      "forms": [
+        "libr"
+      ],
+      "meaningEn": "book"
+    },
+    {
+      "id": 199,
+      "forms": [
+        "lic"
+      ],
+      "meaningEn": "to allure"
+    },
+    {
+      "id": 200,
+      "forms": [
+        "licen"
+      ],
+      "meaningEn": "to allow"
+    },
+    {
+      "id": 201,
+      "forms": [
+        "lim",
+        "limin"
+      ],
+      "meaningEn": "threshold"
+    },
+    {
+      "id": 202,
+      "forms": [
+        "line"
+      ],
+      "meaningEn": "line"
+    },
+    {
+      "id": 203,
+      "forms": [
+        "lingu"
+      ],
+      "meaningEn": "language"
+    },
+    {
+      "id": 204,
+      "forms": [
+        "linqu"
+      ],
+      "meaningEn": "to leave"
+    },
+    {
+      "id": 205,
+      "forms": [
+        "liter"
+      ],
+      "meaningEn": "letter"
+    },
+    {
+      "id": 206,
+      "forms": [
+        "lith"
+      ],
+      "meaningEn": "stone"
+    },
+    {
+      "id": 207,
+      "forms": [
+        "loc"
+      ],
+      "meaningEn": "place"
+    },
+    {
+      "id": 208,
+      "forms": [
+        "log",
+        "logu"
+      ],
+      "meaningEn": "to speak"
+    },
+    {
+      "id": 209,
+      "forms": [
+        "logy"
+      ],
+      "meaningEn": "science"
+    },
+    {
+      "id": 210,
+      "forms": [
+        "long"
+      ],
+      "meaningEn": "long"
+    },
+    {
+      "id": 211,
+      "forms": [
+        "locu",
+        "loqu"
+      ],
+      "meaningEn": "to speak"
+    },
+    {
+      "id": 212,
+      "forms": [
+        "luc",
+        "lust"
+      ],
+      "meaningEn": "light, shine"
+    },
+    {
+      "id": 213,
+      "forms": [
+        "lumin"
+      ],
+      "meaningEn": "light"
+    },
+    {
+      "id": 214,
+      "forms": [
+        "lud",
+        "lus"
+      ],
+      "meaningEn": "to play"
+    },
+    {
+      "id": 215,
+      "forms": [
+        "lun"
+      ],
+      "meaningEn": "moon"
+    },
+    {
+      "id": 216,
+      "forms": [
+        "magn"
+      ],
+      "meaningEn": "big"
+    },
+    {
+      "id": 217,
+      "forms": [
+        "maj"
+      ],
+      "meaningEn": "great"
+    },
+    {
+      "id": 218,
+      "forms": [
+        "man"
+      ],
+      "meaningEn": "hand"
+    },
+    {
+      "id": 219,
+      "forms": [
+        "main",
+        "man"
+      ],
+      "meaningEn": "stay"
+    },
+    {
+      "id": 220,
+      "forms": [
+        "mar"
+      ],
+      "meaningEn": "sea"
+    },
+    {
+      "id": 221,
+      "forms": [
+        "mark"
+      ],
+      "meaningEn": "sign"
+    },
+    {
+      "id": 222,
+      "forms": [
+        "mater",
+        "matr"
+      ],
+      "meaningEn": "mother"
+    },
+    {
+      "id": 223,
+      "forms": [
+        "med",
+        "medi"
+      ],
+      "meaningEn": "middle"
+    },
+    {
+      "id": 224,
+      "forms": [
+        "mend"
+      ],
+      "meaningEn": "free from fault"
+    },
+    {
+      "id": 225,
+      "forms": [
+        "memor"
+      ],
+      "meaningEn": "memory"
+    },
+    {
+      "id": 226,
+      "forms": [
+        "ment"
+      ],
+      "meaningEn": "mind"
+    },
+    {
+      "id": 227,
+      "forms": [
+        "merc",
+        "merch"
+      ],
+      "meaningEn": "trade"
+    },
+    {
+      "id": 228,
+      "forms": [
+        "merg",
+        "mers"
+      ],
+      "meaningEn": "to sink"
+    },
+    {
+      "id": 229,
+      "forms": [
+        "meas",
+        "mens",
+        "meter",
+        "metr"
+      ],
+      "meaningEn": "to measure"
+    },
+    {
+      "id": 230,
+      "forms": [
+        "migr"
+      ],
+      "meaningEn": "to remove"
+    },
+    {
+      "id": 231,
+      "forms": [
+        "milit"
+      ],
+      "meaningEn": "soldier"
+    },
+    {
+      "id": 232,
+      "forms": [
+        "min"
+      ],
+      "meaningEn": "to project"
+    },
+    {
+      "id": 233,
+      "forms": [
+        "mini"
+      ],
+      "meaningEn": "small"
+    },
+    {
+      "id": 234,
+      "forms": [
+        "mir"
+      ],
+      "meaningEn": "wonder"
+    },
+    {
+      "id": 235,
+      "forms": [
+        "mis (o)"
+      ],
+      "meaningEn": "hate"
+    },
+    {
+      "id": 236,
+      "forms": [
+        "mob"
+      ],
+      "meaningEn": "move"
+    },
+    {
+      "id": 237,
+      "forms": [
+        "mod"
+      ],
+      "meaningEn": "mode, manner"
+    },
+    {
+      "id": 238,
+      "forms": [
+        "mon",
+        "monit"
+      ],
+      "meaningEn": "to warn"
+    },
+    {
+      "id": 239,
+      "forms": [
+        "monstr"
+      ],
+      "meaningEn": "to show"
+    },
+    {
+      "id": 240,
+      "forms": [
+        "morph"
+      ],
+      "meaningEn": "to form, to shape"
+    },
+    {
+      "id": 241,
+      "forms": [
+        "mort"
+      ],
+      "meaningEn": "death"
+    },
+    {
+      "id": 242,
+      "forms": [
+        "mot"
+      ],
+      "meaningEn": "to move"
+    },
+    {
+      "id": 243,
+      "forms": [
+        "mount"
+      ],
+      "meaningEn": "to ascend"
+    },
+    {
+      "id": 244,
+      "forms": [
+        "mun"
+      ],
+      "meaningEn": "public"
+    },
+    {
+      "id": 245,
+      "forms": [
+        "mur"
+      ],
+      "meaningEn": "wall"
+    },
+    {
+      "id": 246,
+      "forms": [
+        "mus"
+      ],
+      "meaningEn": "muse"
+    },
+    {
+      "id": 247,
+      "forms": [
+        "mut"
+      ],
+      "meaningEn": "change"
+    },
+    {
+      "id": 248,
+      "forms": [
+        "nat"
+      ],
+      "meaningEn": "born"
+    },
+    {
+      "id": 249,
+      "forms": [
+        "naut",
+        "nav"
+      ],
+      "meaningEn": "ship"
+    },
+    {
+      "id": 250,
+      "forms": [
+        "nect",
+        "nex"
+      ],
+      "meaningEn": "to bind"
+    },
+    {
+      "id": 251,
+      "forms": [
+        "neg",
+        "ni"
+      ],
+      "meaningEn": "to deny"
+    },
+    {
+      "id": 252,
+      "forms": [
+        "negr",
+        "nigr"
+      ],
+      "meaningEn": "black"
+    },
+    {
+      "id": 253,
+      "forms": [
+        "neur"
+      ],
+      "meaningEn": "nerve"
+    },
+    {
+      "id": 254,
+      "forms": [
+        "nihil"
+      ],
+      "meaningEn": "nothing"
+    },
+    {
+      "id": 255,
+      "forms": [
+        "noct"
+      ],
+      "meaningEn": "night"
+    },
+    {
+      "id": 256,
+      "forms": [
+        "noc",
+        "nox"
+      ],
+      "meaningEn": "to hurt"
+    },
+    {
+      "id": 257,
+      "forms": [
+        "nom(y)"
+      ],
+      "meaningEn": "a field of knowledge"
+    },
+    {
+      "id": 258,
+      "forms": [
+        "nomin"
+      ],
+      "meaningEn": "to name"
+    },
+    {
+      "id": 259,
+      "forms": [
+        "norm"
+      ],
+      "meaningEn": "to rule, norm"
+    },
+    {
+      "id": 260,
+      "forms": [
+        "nost"
+      ],
+      "meaningEn": "home"
+    },
+    {
+      "id": 261,
+      "forms": [
+        "not"
+      ],
+      "meaningEn": "to know"
+    },
+    {
+      "id": 262,
+      "forms": [
+        "nounce",
+        "nunci"
+      ],
+      "meaningEn": "to speak"
+    },
+    {
+      "id": 263,
+      "forms": [
+        "nov"
+      ],
+      "meaningEn": "new"
+    },
+    {
+      "id": 264,
+      "forms": [
+        "null"
+      ],
+      "meaningEn": "none"
+    },
+    {
+      "id": 265,
+      "forms": [
+        "numer"
+      ],
+      "meaningEn": "number"
+    },
+    {
+      "id": 266,
+      "forms": [
+        "nutri"
+      ],
+      "meaningEn": "nourish"
+    },
+    {
+      "id": 267,
+      "forms": [
+        "oner"
+      ],
+      "meaningEn": "load"
+    },
+    {
+      "id": 268,
+      "forms": [
+        "onym"
+      ],
+      "meaningEn": "name"
+    },
+    {
+      "id": 269,
+      "forms": [
+        "oper"
+      ],
+      "meaningEn": "to work"
+    },
+    {
+      "id": 270,
+      "forms": [
+        "opt"
+      ],
+      "meaningEn": "to choose, sight"
+    },
+    {
+      "id": 271,
+      "forms": [
+        "optim"
+      ],
+      "meaningEn": "best"
+    },
+    {
+      "id": 272,
+      "forms": [
+        "ora"
+      ],
+      "meaningEn": "mouth"
+    },
+    {
+      "id": 273,
+      "forms": [
+        "orbit"
+      ],
+      "meaningEn": "circle"
+    },
+    {
+      "id": 274,
+      "forms": [
+        "ori",
+        "orig"
+      ],
+      "meaningEn": "to rise, to begin"
+    },
+    {
+      "id": 275,
+      "forms": [
+        "ordin"
+      ],
+      "meaningEn": "order"
+    },
+    {
+      "id": 276,
+      "forms": [
+        "orn"
+      ],
+      "meaningEn": "embellish"
+    },
+    {
+      "id": 277,
+      "forms": [
+        "ot(o)"
+      ],
+      "meaningEn": "ear"
+    },
+    {
+      "id": 278,
+      "forms": [
+        "par"
+      ],
+      "meaningEn": "equal"
+    },
+    {
+      "id": 279,
+      "forms": [
+        "par",
+        "pear"
+      ],
+      "meaningEn": "to come in sight"
+    },
+    {
+      "id": 280,
+      "forms": [
+        "parl"
+      ],
+      "meaningEn": "to speak"
+    },
+    {
+      "id": 281,
+      "forms": [
+        "part",
+        "port"
+      ],
+      "meaningEn": "part, divide"
+    },
+    {
+      "id": 282,
+      "forms": [
+        "pass"
+      ],
+      "meaningEn": "to pass through, feeling"
+    },
+    {
+      "id": 283,
+      "forms": [
+        "path",
+        "pathy"
+      ],
+      "meaningEn": "feeling, suffering"
+    },
+    {
+      "id": 284,
+      "forms": [
+        "patri"
+      ],
+      "meaningEn": "father"
+    },
+    {
+      "id": 285,
+      "forms": [
+        "ped"
+      ],
+      "meaningEn": "foot, child, education"
+    },
+    {
+      "id": 286,
+      "forms": [
+        "pel",
+        "puls"
+      ],
+      "meaningEn": "to drive, to push"
+    },
+    {
+      "id": 287,
+      "forms": [
+        "pen",
+        "pun"
+      ],
+      "meaningEn": "penalty"
+    },
+    {
+      "id": 288,
+      "forms": [
+        "pend",
+        "pens"
+      ],
+      "meaningEn": "to hang"
+    },
+    {
+      "id": 289,
+      "forms": [
+        "pend",
+        "pens",
+        "pond"
+      ],
+      "meaningEn": "weight, to expend"
+    },
+    {
+      "id": 290,
+      "forms": [
+        "peri"
+      ],
+      "meaningEn": "to try"
+    },
+    {
+      "id": 291,
+      "forms": [
+        "pet"
+      ],
+      "meaningEn": "to seek"
+    },
+    {
+      "id": 292,
+      "forms": [
+        "petr(o)"
+      ],
+      "meaningEn": "stone"
+    },
+    {
+      "id": 293,
+      "forms": [
+        "phag"
+      ],
+      "meaningEn": "to eat"
+    },
+    {
+      "id": 294,
+      "forms": [
+        "phil"
+      ],
+      "meaningEn": "to love"
+    },
+    {
+      "id": 295,
+      "forms": [
+        "phob",
+        "phobia"
+      ],
+      "meaningEn": "to dislike"
+    },
+    {
+      "id": 296,
+      "forms": [
+        "phon"
+      ],
+      "meaningEn": "sound"
+    },
+    {
+      "id": 297,
+      "forms": [
+        "photo"
+      ],
+      "meaningEn": "light"
+    },
+    {
+      "id": 298,
+      "forms": [
+        "phyto"
+      ],
+      "meaningEn": "plant"
+    },
+    {
+      "id": 299,
+      "forms": [
+        "pict"
+      ],
+      "meaningEn": "to paint"
+    },
+    {
+      "id": 300,
+      "forms": [
+        "pisc"
+      ],
+      "meaningEn": "fish"
+    },
+    {
+      "id": 301,
+      "forms": [
+        "plac"
+      ],
+      "meaningEn": "calm"
+    },
+    {
+      "id": 302,
+      "forms": [
+        "place"
+      ],
+      "meaningEn": "place"
+    },
+    {
+      "id": 303,
+      "forms": [
+        "plat"
+      ],
+      "meaningEn": "flat"
+    },
+    {
+      "id": 304,
+      "forms": [
+        "plant"
+      ],
+      "meaningEn": "plant"
+    },
+    {
+      "id": 305,
+      "forms": [
+        "plaud"
+      ],
+      "meaningEn": "to clap hands"
+    },
+    {
+      "id": 306,
+      "forms": [
+        "ple",
+        "plen",
+        "pli"
+      ],
+      "meaningEn": "full, to fill"
+    },
+    {
+      "id": 307,
+      "forms": [
+        "plex"
+      ],
+      "meaningEn": "to fold"
+    },
+    {
+      "id": 308,
+      "forms": [
+        "plic",
+        "ply"
+      ],
+      "meaningEn": "to fold"
+    },
+    {
+      "id": 309,
+      "forms": [
+        "plor"
+      ],
+      "meaningEn": "to cry, to weep"
+    },
+    {
+      "id": 310,
+      "forms": [
+        "point",
+        "punct"
+      ],
+      "meaningEn": "point, make sharp"
+    },
+    {
+      "id": 311,
+      "forms": [
+        "polic",
+        "polis",
+        "polit"
+      ],
+      "meaningEn": "state, city"
+    },
+    {
+      "id": 312,
+      "forms": [
+        "pon"
+      ],
+      "meaningEn": "to put"
+    },
+    {
+      "id": 313,
+      "forms": [
+        "popul"
+      ],
+      "meaningEn": "people"
+    },
+    {
+      "id": 314,
+      "forms": [
+        "port"
+      ],
+      "meaningEn": "to carry"
+    },
+    {
+      "id": 315,
+      "forms": [
+        "pos",
+        "posit"
+      ],
+      "meaningEn": "to put"
+    },
+    {
+      "id": 316,
+      "forms": [
+        "post"
+      ],
+      "meaningEn": "behind"
+    },
+    {
+      "id": 317,
+      "forms": [
+        "poten"
+      ],
+      "meaningEn": "powerful"
+    },
+    {
+      "id": 318,
+      "forms": [
+        "prais",
+        "preci"
+      ],
+      "meaningEn": "value"
+    },
+    {
+      "id": 319,
+      "forms": [
+        "prehen"
+      ],
+      "meaningEn": "to catch"
+    },
+    {
+      "id": 320,
+      "forms": [
+        "press"
+      ],
+      "meaningEn": "to press"
+    },
+    {
+      "id": 321,
+      "forms": [
+        "prim"
+      ],
+      "meaningEn": "first, chief"
+    },
+    {
+      "id": 322,
+      "forms": [
+        "pris"
+      ],
+      "meaningEn": "to take"
+    },
+    {
+      "id": 323,
+      "forms": [
+        "priv"
+      ],
+      "meaningEn": "single, alone"
+    },
+    {
+      "id": 324,
+      "forms": [
+        "proach"
+      ],
+      "meaningEn": "near"
+    },
+    {
+      "id": 325,
+      "forms": [
+        "prob",
+        "prov"
+      ],
+      "meaningEn": "to test"
+    },
+    {
+      "id": 326,
+      "forms": [
+        "prol"
+      ],
+      "meaningEn": "offspring"
+    },
+    {
+      "id": 327,
+      "forms": [
+        "proper",
+        "propri"
+      ],
+      "meaningEn": "one"
+    },
+    {
+      "id": 328,
+      "forms": [
+        "pugn"
+      ],
+      "meaningEn": "to fight"
+    },
+    {
+      "id": 329,
+      "forms": [
+        "pur",
+        "purg"
+      ],
+      "meaningEn": "pure"
+    },
+    {
+      "id": 330,
+      "forms": [
+        "put"
+      ],
+      "meaningEn": "to think"
+    },
+    {
+      "id": 343,
+      "forms": [
+        "par",
+        "parere"
+      ],
+      "meaningEn": "to give birth"
+    },
+    {
+      "id": 331,
+      "forms": [
+        "quaint"
+      ],
+      "meaningEn": "to know"
+    },
+    {
+      "id": 332,
+      "forms": [
+        "quer",
+        "quest",
+        "quir",
+        "quis"
+      ],
+      "meaningEn": "to seek, to search"
+    },
+    {
+      "id": 333,
+      "forms": [
+        "quies",
+        "quiet"
+      ],
+      "meaningEn": "still"
+    },
+    {
+      "id": 334,
+      "forms": [
+        "quit"
+      ],
+      "meaningEn": "free"
+    },
+    {
+      "id": 335,
+      "forms": [
+        "radic"
+      ],
+      "meaningEn": "root"
+    },
+    {
+      "id": 336,
+      "forms": [
+        "rage"
+      ],
+      "meaningEn": "mad"
+    },
+    {
+      "id": 337,
+      "forms": [
+        "range"
+      ],
+      "meaningEn": "rank"
+    },
+    {
+      "id": 338,
+      "forms": [
+        "rap",
+        "rapt",
+        "rav"
+      ],
+      "meaningEn": "to snatch"
+    },
+    {
+      "id": 339,
+      "forms": [
+        "rod",
+        "ros"
+      ],
+      "meaningEn": "to bite"
+    },
+    {
+      "id": 340,
+      "forms": [
+        "rog"
+      ],
+      "meaningEn": "to ask"
+    },
+    {
+      "id": 341,
+      "forms": [
+        "rot"
+      ],
+      "meaningEn": "wheel"
+    },
+    {
+      "id": 342,
+      "forms": [
+        "rud"
+      ],
+      "meaningEn": "rude"
+    }
+  ],
+  "examples": {
+    "abandon": [
+      31
+    ],
+    "abase": [
+      33
+    ],
+    "aberrant": [
+      107
+    ],
+    "abjure": [
+      183
+    ],
+    "abnormal": [
+      259
+    ],
+    "accelerate": [
+      44
+    ],
+    "accent": [
+      38
+    ],
+    "accentuate": [
+      38
+    ],
+    "accept": [
+      39
+    ],
+    "accidental": [
+      36
+    ],
+    "acclaim": [
+      52
+    ],
+    "accord": [
+      41
+    ],
+    "accustom": [
+      74
+    ],
+    "acidity": [
+      1
+    ],
+    "acme": [
+      1
+    ],
+    "acquaint": [
+      331
+    ],
+    "acquaintance": [
+      331
+    ],
+    "acquiescence": [
+      333
+    ],
+    "acquire": [
+      332
+    ],
+    "acquit": [
+      334
+    ],
+    "acrobat": [
+      2
+    ],
+    "acrolect": [
+      194
+    ],
+    "acrophobia": [
+      2,
+      295
+    ],
+    "activity": [
+      3
+    ],
+    "acute": [
+      1
+    ],
+    "adapt": [
+      18
+    ],
+    "adhere": [
+      163
+    ],
+    "admonish": [
+      238
+    ],
+    "adopt": [
+      270
+    ],
+    "adorn": [
+      276
+    ],
+    "aerodrome": [
+      4,
+      96
+    ],
+    "aerology": [
+      4
+    ],
+    "aerosphere": [
+      4
+    ],
+    "aesthetics": [
+      108
+    ],
+    "affable": [
+      111
+    ],
+    "affirm": [
+      124
+    ],
+    "affix": [
+      125
+    ],
+    "afflict": [
+      129
+    ],
+    "affront": [
+      137
+    ],
+    "agency": [
+      5
+    ],
+    "agenda": [
+      5
+    ],
+    "aggravate": [
+      152
+    ],
+    "aggregate": [
+      153
+    ],
+    "aggression": [
+      154
+    ],
+    "agnostic": [
+      147
+    ],
+    "agonize": [
+      6
+    ],
+    "agony": [
+      6
+    ],
+    "agriculture": [
+      7
+    ],
+    "agrobiology": [
+      7
+    ],
+    "agronomy": [
+      257
+    ],
+    "albescent": [
+      8
+    ],
+    "albinism": [
+      8
+    ],
+    "alien": [
+      10
+    ],
+    "allude": [
+      214
+    ],
+    "alteration": [
+      10
+    ],
+    "alternative": [
+      10
+    ],
+    "altitude": [
+      9
+    ],
+    "amateur": [
+      11
+    ],
+    "ambidexterous": [
+      87
+    ],
+    "ambulance": [
+      12
+    ],
+    "amend": [
+      224
+    ],
+    "amorphous": [
+      240
+    ],
+    "amour": [
+      11
+    ],
+    "amplify": [
+      13
+    ],
+    "amplitude": [
+      13
+    ],
+    "amuse": [
+      246
+    ],
+    "anarchy": [
+      21
+    ],
+    "ancestor": [
+      43
+    ],
+    "ancient": [
+      14
+    ],
+    "anesthesia": [
+      108
+    ],
+    "animal": [
+      15
+    ],
+    "animate": [
+      15
+    ],
+    "anniversary": [
+      16
+    ],
+    "announce": [
+      262
+    ],
+    "annual": [
+      16
+    ],
+    "annul": [
+      264
+    ],
+    "anonymous": [
+      268
+    ],
+    "antecedent": [
+      43
+    ],
+    "anthropology": [
+      17
+    ],
+    "anticipate": [
+      39
+    ],
+    "antique": [
+      14
+    ],
+    "apartment": [
+      281
+    ],
+    "apparent": [
+      279
+    ],
+    "appear": [
+      279
+    ],
+    "applaud": [
+      305
+    ],
+    "applause": [
+      305
+    ],
+    "appraise": [
+      318
+    ],
+    "appreciate": [
+      318
+    ],
+    "apprehension": [
+      319
+    ],
+    "apprise": [
+      322
+    ],
+    "approach": [
+      324
+    ],
+    "approachable": [
+      324
+    ],
+    "appropriate": [
+      327
+    ],
+    "approve": [
+      325
+    ],
+    "aptitude": [
+      18
+    ],
+    "aquarium": [
+      19
+    ],
+    "aqueduct": [
+      19
+    ],
+    "aquiculture": [
+      77
+    ],
+    "arbiter": [
+      20
+    ],
+    "arbitrary": [
+      20
+    ],
+    "armament": [
+      22
+    ],
+    "arrange": [
+      337
+    ],
+    "arrogate": [
+      340
+    ],
+    "artful": [
+      23
+    ],
+    "artifice": [
+      23
+    ],
+    "artificial": [
+      23
+    ],
+    "astronaut": [
+      24
+    ],
+    "astronomy": [
+      257
+    ],
+    "astrophysics": [
+      24
+    ],
+    "audience": [
+      25
+    ],
+    "auditorium": [
+      25
+    ],
+    "augment": [
+      26
+    ],
+    "augmentation": [
+      26
+    ],
+    "autocrat": [
+      57
+    ],
+    "avarice": [
+      28
+    ],
+    "aviculture": [
+      28
+    ],
+    "balloon": [
+      29
+    ],
+    "balmy": [
+      30
+    ],
+    "banish": [
+      31
+    ],
+    "baric": [
+      32
+    ],
+    "barometer": [
+      32
+    ],
+    "barrage": [
+      32
+    ],
+    "barrier": [
+      32
+    ],
+    "basement": [
+      33
+    ],
+    "bass": [
+      33
+    ],
+    "batter": [
+      34
+    ],
+    "behave": [
+      159
+    ],
+    "benediction": [
+      89
+    ],
+    "benefaction": [
+      114
+    ],
+    "bicycle": [
+      50
+    ],
+    "bilateral": [
+      190
+    ],
+    "bilingual": [
+      203
+    ],
+    "biography": [
+      149
+    ],
+    "biped": [
+      285
+    ],
+    "bullet": [
+      29
+    ],
+    "calorie": [
+      59
+    ],
+    "calorify": [
+      59
+    ],
+    "campaign": [
+      60
+    ],
+    "campus": [
+      60
+    ],
+    "candela": [
+      37
+    ],
+    "candle": [
+      37
+    ],
+    "cantata": [
+      38
+    ],
+    "capacity": [
+      39
+    ],
+    "capital": [
+      40
+    ],
+    "capitation": [
+      40
+    ],
+    "captain": [
+      40
+    ],
+    "captive": [
+      39
+    ],
+    "capture": [
+      39
+    ],
+    "cardiac": [
+      41
+    ],
+    "carnage": [
+      42
+    ],
+    "carnation": [
+      42
+    ],
+    "carnival": [
+      42
+    ],
+    "casual": [
+      36
+    ],
+    "cave": [
+      63
+    ],
+    "censor": [
+      64
+    ],
+    "censure": [
+      64
+    ],
+    "centrifugal": [
+      138
+    ],
+    "century": [
+      45
+    ],
+    "certainty": [
+      47
+    ],
+    "chant": [
+      38
+    ],
+    "charity": [
+      61
+    ],
+    "chart": [
+      62
+    ],
+    "charter": [
+      62
+    ],
+    "cherish": [
+      61
+    ],
+    "choir": [
+      65
+    ],
+    "choreography": [
+      65
+    ],
+    "chorus": [
+      65
+    ],
+    "chromatic": [
+      66
+    ],
+    "chronic": [
+      48
+    ],
+    "chronology": [
+      48
+    ],
+    "circuit": [
+      177
+    ],
+    "circular": [
+      50
+    ],
+    "circumambulate": [
+      12
+    ],
+    "circumference": [
+      117
+    ],
+    "civil": [
+      68
+    ],
+    "civilization": [
+      68
+    ],
+    "clamor": [
+      52
+    ],
+    "clarify": [
+      53
+    ],
+    "coagent": [
+      5
+    ],
+    "cognition": [
+      70
+    ],
+    "coherent": [
+      163
+    ],
+    "collate": [
+      189
+    ],
+    "collect": [
+      193
+    ],
+    "colloquial": [
+      211
+    ],
+    "combat": [
+      34
+    ],
+    "commerce": [
+      227
+    ],
+    "commune": [
+      244
+    ],
+    "community": [
+      244
+    ],
+    "compassion": [
+      282
+    ],
+    "compel": [
+      286
+    ],
+    "compete": [
+      291
+    ],
+    "complement": [
+      306
+    ],
+    "complex": [
+      307
+    ],
+    "complicate": [
+      308
+    ],
+    "compose": [
+      315
+    ],
+    "comprehend": [
+      319
+    ],
+    "compress": [
+      320
+    ],
+    "comprise": [
+      322
+    ],
+    "compute": [
+      330
+    ],
+    "computer": [
+      330
+    ],
+    "concede": [
+      43
+    ],
+    "concentrate": [
+      46
+    ],
+    "concentric": [
+      46
+    ],
+    "concern": [
+      47
+    ],
+    "conciliate": [
+      67
+    ],
+    "concoct": [
+      69
+    ],
+    "concourse": [
+      75
+    ],
+    "concur": [
+      75
+    ],
+    "condemn": [
+      82
+    ],
+    "condense": [
+      84
+    ],
+    "confederate": [
+      116
+    ],
+    "conference": [
+      117
+    ],
+    "confess": [
+      119
+    ],
+    "confide": [
+      121
+    ],
+    "confidence": [
+      121
+    ],
+    "confidential": [
+      121
+    ],
+    "confirm": [
+      124
+    ],
+    "conflation": [
+      127
+    ],
+    "conflict": [
+      129
+    ],
+    "confront": [
+      137
+    ],
+    "confuse": [
+      139
+    ],
+    "confusion": [
+      139
+    ],
+    "congest": [
+      145
+    ],
+    "congregate": [
+      153
+    ],
+    "congress": [
+      154
+    ],
+    "connect": [
+      250
+    ],
+    "cooperation": [
+      269
+    ],
+    "coordinate": [
+      275
+    ],
+    "cordial": [
+      41
+    ],
+    "corporal": [
+      56
+    ],
+    "corporation": [
+      56
+    ],
+    "corpse": [
+      56
+    ],
+    "corrode": [
+      339
+    ],
+    "cosmopolis": [
+      311
+    ],
+    "cosmos": [
+      71
+    ],
+    "create": [
+      81
+    ],
+    "credible": [
+      58
+    ],
+    "creditable": [
+      58
+    ],
+    "credulous": [
+      58
+    ],
+    "criterion": [
+      72
+    ],
+    "criticism": [
+      72
+    ],
+    "crucial": [
+      80
+    ],
+    "cruciform": [
+      80
+    ],
+    "cryobiology": [
+      73
+    ],
+    "cryoprotective": [
+      73
+    ],
+    "cryptic": [
+      79
+    ],
+    "cryptogram": [
+      79
+    ],
+    "cryptonym": [
+      79
+    ],
+    "cultivate": [
+      77
+    ],
+    "culture": [
+      77
+    ],
+    "curious": [
+      76
+    ],
+    "currency": [
+      75
+    ],
+    "customary": [
+      74
+    ],
+    "decelerate": [
+      44
+    ],
+    "declaim": [
+      52
+    ],
+    "declare": [
+      53
+    ],
+    "decline": [
+      54
+    ],
+    "decoct": [
+      69
+    ],
+    "deduce": [
+      98
+    ],
+    "degrade": [
+      148
+    ],
+    "dehypnotize": [
+      170
+    ],
+    "delicate": [
+      199
+    ],
+    "delinquent": [
+      204
+    ],
+    "deluge": [
+      191
+    ],
+    "democracy": [
+      57,
+      83
+    ],
+    "demography": [
+      83
+    ],
+    "demonstrate": [
+      239
+    ],
+    "denigrate": [
+      252
+    ],
+    "denominate": [
+      258
+    ],
+    "denounce": [
+      262
+    ],
+    "dense": [
+      84
+    ],
+    "dentist": [
+      85
+    ],
+    "denture": [
+      85
+    ],
+    "deny": [
+      251
+    ],
+    "depart": [
+      281
+    ],
+    "deplore": [
+      309
+    ],
+    "derange": [
+      337
+    ],
+    "dermatitis": [
+      86
+    ],
+    "dermatologist": [
+      86
+    ],
+    "dexterous": [
+      87
+    ],
+    "dialogue": [
+      208
+    ],
+    "diameter": [
+      229
+    ],
+    "diary": [
+      88
+    ],
+    "dictate": [
+      89
+    ],
+    "dictionary": [
+      89
+    ],
+    "dictum": [
+      89
+    ],
+    "diffuse": [
+      139
+    ],
+    "digest": [
+      145
+    ],
+    "dignity": [
+      90
+    ],
+    "dilute": [
+      191
+    ],
+    "dimension": [
+      229
+    ],
+    "diminish": [
+      233
+    ],
+    "disappear": [
+      279
+    ],
+    "disarm": [
+      22
+    ],
+    "disarrange": [
+      337
+    ],
+    "disconnect": [
+      250
+    ],
+    "discredit": [
+      58
+    ],
+    "discreet": [
+      47
+    ],
+    "disintegration": [
+      176
+    ],
+    "disjoin": [
+      182
+    ],
+    "displace": [
+      302
+    ],
+    "disprove": [
+      325
+    ],
+    "dispute": [
+      330
+    ],
+    "doctor": [
+      91
+    ],
+    "doctrine": [
+      91
+    ],
+    "document": [
+      91
+    ],
+    "dome": [
+      93
+    ],
+    "domestic": [
+      93
+    ],
+    "donate": [
+      92
+    ],
+    "dormant": [
+      94
+    ],
+    "dormitory": [
+      94
+    ],
+    "double": [
+      97
+    ],
+    "drawl": [
+      95
+    ],
+    "dromometer": [
+      96
+    ],
+    "dual": [
+      97
+    ],
+    "duplex": [
+      307
+    ],
+    "durable": [
+      99
+    ],
+    "dynamics": [
+      100
+    ],
+    "dynasty": [
+      100
+    ],
+    "dysphagia": [
+      293
+    ],
+    "edible": [
+      101
+    ],
+    "edit": [
+      92
+    ],
+    "effuse": [
+      139
+    ],
+    "effusion": [
+      139
+    ],
+    "egocentric": [
+      102
+    ],
+    "egoism": [
+      102
+    ],
+    "eject": [
+      178
+    ],
+    "elaborate": [
+      185
+    ],
+    "elapse": [
+      188
+    ],
+    "election": [
+      193
+    ],
+    "elevator": [
+      196
+    ],
+    "elicit": [
+      199
+    ],
+    "eliminate": [
+      201
+    ],
+    "elocution": [
+      211
+    ],
+    "elude": [
+      214
+    ],
+    "embalm": [
+      30
+    ],
+    "emend": [
+      224
+    ],
+    "emerge": [
+      228
+    ],
+    "eminent": [
+      232
+    ],
+    "emperor": [
+      104
+    ],
+    "enact": [
+      3
+    ],
+    "encircle": [
+      50
+    ],
+    "enclose": [
+      55
+    ],
+    "encyclopedia": [
+      50
+    ],
+    "endure": [
+      99
+    ],
+    "energetic": [
+      106
+    ],
+    "energy": [
+      106
+    ],
+    "enumerate": [
+      265
+    ],
+    "epidemic": [
+      83
+    ],
+    "epidermis": [
+      86
+    ],
+    "equality": [
+      105
+    ],
+    "equation": [
+      105
+    ],
+    "equity": [
+      105
+    ],
+    "equivalent": [
+      105
+    ],
+    "eradicate": [
+      335
+    ],
+    "erode": [
+      339
+    ],
+    "erratic": [
+      107
+    ],
+    "error": [
+      107
+    ],
+    "exact": [
+      3
+    ],
+    "exalt": [
+      9
+    ],
+    "example": [
+      103
+    ],
+    "excavate": [
+      63
+    ],
+    "excite": [
+      51
+    ],
+    "exclaim": [
+      52
+    ],
+    "exclude": [
+      55
+    ],
+    "excurse": [
+      75
+    ],
+    "exempt": [
+      103
+    ],
+    "exhale": [
+      157
+    ],
+    "exhibition": [
+      164
+    ],
+    "exhilarate": [
+      165
+    ],
+    "exhume": [
+      168
+    ],
+    "exit": [
+      177
+    ],
+    "exonerate": [
+      267
+    ],
+    "expedition": [
+      285
+    ],
+    "expel": [
+      286
+    ],
+    "expend": [
+      289
+    ],
+    "expensive": [
+      289
+    ],
+    "experience": [
+      290
+    ],
+    "experiment": [
+      290
+    ],
+    "explore": [
+      309
+    ],
+    "external": [
+      109
+    ],
+    "extra": [
+      109
+    ],
+    "fable": [
+      111
+    ],
+    "fabricate": [
+      112
+    ],
+    "face": [
+      113
+    ],
+    "facile": [
+      114
+    ],
+    "facilitate": [
+      114
+    ],
+    "failure": [
+      115
+    ],
+    "fallible": [
+      115
+    ],
+    "fault": [
+      115
+    ],
+    "federal": [
+      116
+    ],
+    "fervid": [
+      118
+    ],
+    "festival": [
+      120
+    ],
+    "festive": [
+      120
+    ],
+    "filament": [
+      122
+    ],
+    "filar": [
+      122
+    ],
+    "file": [
+      122
+    ],
+    "finish": [
+      123
+    ],
+    "finite": [
+      123
+    ],
+    "fixation": [
+      125
+    ],
+    "flame": [
+      126
+    ],
+    "flexible": [
+      128
+    ],
+    "floral": [
+      130
+    ],
+    "floriculture": [
+      130
+    ],
+    "flourish": [
+      130
+    ],
+    "fluid": [
+      131
+    ],
+    "flux": [
+      131
+    ],
+    "force": [
+      132
+    ],
+    "formal": [
+      133
+    ],
+    "formation": [
+      133
+    ],
+    "formula": [
+      133
+    ],
+    "foundation": [
+      134
+    ],
+    "founder": [
+      134
+    ],
+    "fraction": [
+      135
+    ],
+    "fracture": [
+      135
+    ],
+    "frigid": [
+      136
+    ],
+    "fugitive": [
+      138
+    ],
+    "garment": [
+      141
+    ],
+    "garnish": [
+      141
+    ],
+    "generate": [
+      142
+    ],
+    "generation": [
+      142
+    ],
+    "genesis": [
+      142
+    ],
+    "geography": [
+      143
+    ],
+    "geometry": [
+      143
+    ],
+    "germane": [
+      144
+    ],
+    "germinate": [
+      144
+    ],
+    "gesture": [
+      145
+    ],
+    "glacier": [
+      146
+    ],
+    "glaciology": [
+      146
+    ],
+    "grade": [
+      148
+    ],
+    "graduate": [
+      148
+    ],
+    "granary": [
+      150
+    ],
+    "granivorous": [
+      150
+    ],
+    "gratification": [
+      151
+    ],
+    "gratitude": [
+      151
+    ],
+    "grave": [
+      152
+    ],
+    "grief": [
+      152
+    ],
+    "gynecology": [
+      155
+    ],
+    "habitant": [
+      156
+    ],
+    "happen": [
+      158
+    ],
+    "have": [
+      159
+    ],
+    "heading": [
+      160
+    ],
+    "heady": [
+      160
+    ],
+    "helicopter": [
+      162
+    ],
+    "heliocentric": [
+      161
+    ],
+    "heliosis": [
+      161
+    ],
+    "helix": [
+      162
+    ],
+    "hesitation": [
+      163
+    ],
+    "hilarity": [
+      165
+    ],
+    "horrible": [
+      166
+    ],
+    "horrid": [
+      166
+    ],
+    "hospitality": [
+      167
+    ],
+    "host": [
+      167
+    ],
+    "human": [
+      168
+    ],
+    "hydroelectric": [
+      169
+    ],
+    "hydrophobia": [
+      295
+    ],
+    "hydrophyte": [
+      298
+    ],
+    "hydrous": [
+      169
+    ],
+    "hypnology": [
+      170
+    ],
+    "ideal": [
+      171
+    ],
+    "idealism": [
+      171
+    ],
+    "idiograph": [
+      172
+    ],
+    "idiolect": [
+      194
+    ],
+    "idiot": [
+      172
+    ],
+    "idol": [
+      173
+    ],
+    "idolize": [
+      173
+    ],
+    "ignorance": [
+      147
+    ],
+    "ignore": [
+      147
+    ],
+    "illiterate": [
+      205
+    ],
+    "illuminate": [
+      213
+    ],
+    "imagine": [
+      174
+    ],
+    "imitable": [
+      174
+    ],
+    "immigrate": [
+      230
+    ],
+    "immortal": [
+      241
+    ],
+    "immure": [
+      245
+    ],
+    "imparity": [
+      278
+    ],
+    "impel": [
+      286
+    ],
+    "imperative": [
+      104
+    ],
+    "imperial": [
+      104
+    ],
+    "implacable": [
+      301
+    ],
+    "implant": [
+      304
+    ],
+    "implicate": [
+      308
+    ],
+    "implore": [
+      309
+    ],
+    "impugn": [
+      328
+    ],
+    "impure": [
+      329
+    ],
+    "incident": [
+      36
+    ],
+    "incise": [
+      49
+    ],
+    "incite": [
+      51
+    ],
+    "incline": [
+      54
+    ],
+    "include": [
+      55
+    ],
+    "increase": [
+      81
+    ],
+    "incubate": [
+      78
+    ],
+    "indemnity": [
+      82
+    ],
+    "indignity": [
+      90
+    ],
+    "inedible": [
+      101
+    ],
+    "infest": [
+      120
+    ],
+    "infinite": [
+      123
+    ],
+    "infirm": [
+      124
+    ],
+    "inflame": [
+      126
+    ],
+    "inflate": [
+      127
+    ],
+    "inflation": [
+      127
+    ],
+    "inflect": [
+      128
+    ],
+    "infliction": [
+      129
+    ],
+    "inhabit": [
+      156
+    ],
+    "inhale": [
+      157
+    ],
+    "inhibit": [
+      164
+    ],
+    "inhume": [
+      168
+    ],
+    "inject": [
+      178
+    ],
+    "innocent": [
+      256
+    ],
+    "innovation": [
+      263
+    ],
+    "insecticide": [
+      49
+    ],
+    "insectifuge": [
+      138
+    ],
+    "insular": [
+      175
+    ],
+    "integrity": [
+      176
+    ],
+    "interrogate": [
+      340
+    ],
+    "introduce": [
+      98
+    ],
+    "jocose": [
+      179
+    ],
+    "jocular": [
+      179
+    ],
+    "joint": [
+      182
+    ],
+    "journal": [
+      180
+    ],
+    "journalist": [
+      180
+    ],
+    "judgment": [
+      181
+    ],
+    "jury": [
+      183
+    ],
+    "juvenile": [
+      184
+    ],
+    "laboratory": [
+      185
+    ],
+    "laborious": [
+      185
+    ],
+    "lactate": [
+      186
+    ],
+    "lactic": [
+      186
+    ],
+    "landmark": [
+      221
+    ],
+    "languish": [
+      187
+    ],
+    "languor": [
+      187
+    ],
+    "lapse": [
+      188
+    ],
+    "lavish": [
+      191
+    ],
+    "laxity": [
+      192
+    ],
+    "lecture": [
+      194
+    ],
+    "legal": [
+      195
+    ],
+    "legislation": [
+      195
+    ],
+    "lever": [
+      196
+    ],
+    "liberal": [
+      197
+    ],
+    "liberty": [
+      197
+    ],
+    "library": [
+      198
+    ],
+    "licence": [
+      200
+    ],
+    "licentious": [
+      200
+    ],
+    "linguistics": [
+      203
+    ],
+    "literature": [
+      205
+    ],
+    "local": [
+      207
+    ],
+    "location": [
+      207
+    ],
+    "longevity": [
+      210
+    ],
+    "lucidity": [
+      212
+    ],
+    "luminous": [
+      213
+    ],
+    "lunar": [
+      215
+    ],
+    "luster": [
+      212
+    ],
+    "magnificence": [
+      216
+    ],
+    "magniloquent": [
+      216
+    ],
+    "major": [
+      217
+    ],
+    "majority": [
+      217
+    ],
+    "malefaction": [
+      114
+    ],
+    "manifest": [
+      120
+    ],
+    "manual": [
+      218
+    ],
+    "manufacture": [
+      218
+    ],
+    "manuscript": [
+      218
+    ],
+    "marine": [
+      220
+    ],
+    "marked": [
+      221
+    ],
+    "maternal": [
+      222
+    ],
+    "matriarchy": [
+      222
+    ],
+    "medial": [
+      223
+    ],
+    "mediate": [
+      223
+    ],
+    "medieval": [
+      110
+    ],
+    "medium": [
+      223
+    ],
+    "memory": [
+      225
+    ],
+    "mental": [
+      226
+    ],
+    "mentality": [
+      226
+    ],
+    "mention": [
+      226
+    ],
+    "merchant": [
+      227
+    ],
+    "merge": [
+      228
+    ],
+    "metropolis": [
+      311
+    ],
+    "microcosm": [
+      71
+    ],
+    "microphone": [
+      296
+    ],
+    "migrate": [
+      230
+    ],
+    "militant": [
+      231
+    ],
+    "military": [
+      231
+    ],
+    "minor": [
+      233
+    ],
+    "minority": [
+      233
+    ],
+    "miracle": [
+      234
+    ],
+    "miraculous": [
+      234
+    ],
+    "misanthropist": [
+      235
+    ],
+    "mishap": [
+      158
+    ],
+    "misogamist": [
+      235
+    ],
+    "mobile": [
+      236
+    ],
+    "mobility": [
+      236
+    ],
+    "mobocrat": [
+      57
+    ],
+    "moderate": [
+      237
+    ],
+    "modest": [
+      237
+    ],
+    "modify": [
+      237
+    ],
+    "monarch": [
+      21
+    ],
+    "monitor": [
+      238
+    ],
+    "monochrome": [
+      66
+    ],
+    "monocracy": [
+      57
+    ],
+    "monogamy": [
+      140
+    ],
+    "monogyny": [
+      155
+    ],
+    "monster": [
+      239
+    ],
+    "morphology": [
+      209,
+      240
+    ],
+    "mortal": [
+      241
+    ],
+    "motion": [
+      242
+    ],
+    "motivate": [
+      242
+    ],
+    "mount": [
+      243
+    ],
+    "mountain": [
+      243
+    ],
+    "multiparous": [
+      343
+    ],
+    "mural": [
+      245
+    ],
+    "museum": [
+      246
+    ],
+    "music": [
+      246
+    ],
+    "mutability": [
+      247
+    ],
+    "mutable": [
+      247
+    ],
+    "natal": [
+      248
+    ],
+    "nationality": [
+      248
+    ],
+    "native": [
+      248
+    ],
+    "navigate": [
+      249
+    ],
+    "navy": [
+      249
+    ],
+    "neglect": [
+      193
+    ],
+    "negro": [
+      252
+    ],
+    "neogamist": [
+      140
+    ],
+    "neolithic": [
+      206
+    ],
+    "neurology": [
+      253
+    ],
+    "neuropath": [
+      253
+    ],
+    "nihil": [
+      254
+    ],
+    "nihilism": [
+      254
+    ],
+    "noctambulate": [
+      255
+    ],
+    "nocuous": [
+      256
+    ],
+    "nominate": [
+      258
+    ],
+    "normal": [
+      259
+    ],
+    "nostalgia": [
+      260
+    ],
+    "notable": [
+      261
+    ],
+    "novelty": [
+      263
+    ],
+    "null": [
+      264
+    ],
+    "numerous": [
+      265
+    ],
+    "nutrient": [
+      266
+    ],
+    "nutrition": [
+      266
+    ],
+    "occasion": [
+      36
+    ],
+    "occupation": [
+      39
+    ],
+    "occupy": [
+      39
+    ],
+    "offer": [
+      117
+    ],
+    "onerous": [
+      267
+    ],
+    "onus": [
+      267
+    ],
+    "onymous": [
+      268
+    ],
+    "operation": [
+      269
+    ],
+    "opponent": [
+      312
+    ],
+    "optic": [
+      270
+    ],
+    "optics": [
+      270
+    ],
+    "optimism": [
+      271
+    ],
+    "optimistic": [
+      271
+    ],
+    "optional": [
+      270
+    ],
+    "oral": [
+      272
+    ],
+    "orator": [
+      272
+    ],
+    "orbit": [
+      273
+    ],
+    "orbital": [
+      273
+    ],
+    "ordain": [
+      275
+    ],
+    "oriental": [
+      274
+    ],
+    "original": [
+      274
+    ],
+    "ornament": [
+      276
+    ],
+    "otology": [
+      277
+    ],
+    "otopathy": [
+      277
+    ],
+    "outline": [
+      202
+    ],
+    "paleolithic": [
+      206
+    ],
+    "pandemic": [
+      83
+    ],
+    "parent": [
+      343
+    ],
+    "parity": [
+      278
+    ],
+    "parley": [
+      280
+    ],
+    "parliament": [
+      280
+    ],
+    "participate": [
+      39
+    ],
+    "passage": [
+      282
+    ],
+    "passion": [
+      282
+    ],
+    "passport": [
+      282
+    ],
+    "pathology": [
+      283
+    ],
+    "patriarchy": [
+      284
+    ],
+    "patriotism": [
+      284
+    ],
+    "pedagogy": [
+      285
+    ],
+    "pedant": [
+      285
+    ],
+    "pedology": [
+      285
+    ],
+    "penalty": [
+      287
+    ],
+    "pendant": [
+      288
+    ],
+    "peninsula": [
+      175
+    ],
+    "penitent": [
+      287
+    ],
+    "percentage": [
+      45
+    ],
+    "perfervid": [
+      118
+    ],
+    "peril": [
+      290
+    ],
+    "perilous": [
+      290
+    ],
+    "perimeter": [
+      229
+    ],
+    "permanent": [
+      219
+    ],
+    "pernoctation": [
+      255
+    ],
+    "petition": [
+      291
+    ],
+    "petrochemistry": [
+      292
+    ],
+    "petroleum": [
+      292
+    ],
+    "philanthropist": [
+      17
+    ],
+    "philanthropy": [
+      294
+    ],
+    "photogenic": [
+      297
+    ],
+    "photograph": [
+      297
+    ],
+    "phytogeography": [
+      298
+    ],
+    "picture": [
+      299
+    ],
+    "picturesque": [
+      299
+    ],
+    "piscary": [
+      300
+    ],
+    "pisciculture": [
+      300
+    ],
+    "placid": [
+      301
+    ],
+    "plantation": [
+      304
+    ],
+    "plateau": [
+      303
+    ],
+    "platform": [
+      303
+    ],
+    "pointer": [
+      310
+    ],
+    "polis": [
+      311
+    ],
+    "ponder": [
+      289
+    ],
+    "ponderous": [
+      289
+    ],
+    "popular": [
+      313
+    ],
+    "population": [
+      313
+    ],
+    "portable": [
+      314
+    ],
+    "porter": [
+      314
+    ],
+    "pose": [
+      315
+    ],
+    "posterior": [
+      316
+    ],
+    "posterity": [
+      316
+    ],
+    "postpone": [
+      312
+    ],
+    "potent": [
+      317
+    ],
+    "potential": [
+      317
+    ],
+    "precede": [
+      43
+    ],
+    "precious": [
+      318
+    ],
+    "precise": [
+      49
+    ],
+    "prefabricated": [
+      112
+    ],
+    "prefix": [
+      125
+    ],
+    "prejudge": [
+      181
+    ],
+    "preliminary": [
+      201
+    ],
+    "pressing": [
+      320
+    ],
+    "pressure": [
+      320
+    ],
+    "primary": [
+      321
+    ],
+    "primeval": [
+      110
+    ],
+    "primitive": [
+      321
+    ],
+    "private": [
+      323
+    ],
+    "privilege": [
+      323
+    ],
+    "proceed": [
+      43
+    ],
+    "process": [
+      43
+    ],
+    "proclaim": [
+      52
+    ],
+    "procreate": [
+      81
+    ],
+    "produce": [
+      98
+    ],
+    "professor": [
+      119
+    ],
+    "profile": [
+      122
+    ],
+    "progress": [
+      154
+    ],
+    "prohibit": [
+      164
+    ],
+    "project": [
+      178
+    ],
+    "proliferate": [
+      326
+    ],
+    "prolific": [
+      326
+    ],
+    "prologue": [
+      208
+    ],
+    "prolong": [
+      210
+    ],
+    "prominent": [
+      232
+    ],
+    "promote": [
+      242
+    ],
+    "pronounce": [
+      262
+    ],
+    "property": [
+      327
+    ],
+    "psychology": [
+      209
+    ],
+    "pugnacious": [
+      328
+    ],
+    "punctual": [
+      310
+    ],
+    "purity": [
+      329
+    ],
+    "question": [
+      332
+    ],
+    "quietude": [
+      333
+    ],
+    "quit": [
+      334
+    ],
+    "radical": [
+      335
+    ],
+    "rage": [
+      336
+    ],
+    "rape": [
+      338
+    ],
+    "ravage": [
+      338
+    ],
+    "ravish": [
+      338
+    ],
+    "rebel": [
+      35
+    ],
+    "rebellion": [
+      35
+    ],
+    "receive": [
+      39
+    ],
+    "recite": [
+      51
+    ],
+    "recline": [
+      54
+    ],
+    "recognize": [
+      70
+    ],
+    "reconcile": [
+      67
+    ],
+    "reflect": [
+      128
+    ],
+    "refrigerator": [
+      136
+    ],
+    "refuse": [
+      139
+    ],
+    "reinforce": [
+      132
+    ],
+    "rejuvenation": [
+      184
+    ],
+    "relax": [
+      192
+    ],
+    "relieve": [
+      196
+    ],
+    "relinquish": [
+      204
+    ],
+    "remain": [
+      219
+    ],
+    "remember": [
+      225
+    ],
+    "replace": [
+      302
+    ],
+    "request": [
+      332
+    ],
+    "rotate": [
+      341
+    ],
+    "rotund": [
+      341
+    ],
+    "rude": [
+      342
+    ],
+    "rudimental": [
+      342
+    ],
+    "sample": [
+      103
+    ],
+    "secure": [
+      76
+    ],
+    "select": [
+      193
+    ],
+    "semilunar": [
+      215
+    ],
+    "somnambulate": [
+      12
+    ],
+    "submarine": [
+      220
+    ],
+    "submerge": [
+      228
+    ],
+    "succumb": [
+      78
+    ],
+    "suffix": [
+      125
+    ],
+    "suggest": [
+      145
+    ],
+    "suicide": [
+      49
+    ],
+    "supplement": [
+      306
+    ],
+    "suspend": [
+      288
+    ],
+    "suspense": [
+      288
+    ],
+    "sympathy": [
+      283
+    ],
+    "symphony": [
+      296
+    ],
+    "telegraph": [
+      149
+    ],
+    "theocracy": [
+      57
+    ],
+    "translate": [
+      189
+    ],
+    "underline": [
+      202
+    ],
+    "unilateral": [
+      190
+    ],
+    "withdraw": [
+      95
+    ],
+    "zoophagous": [
+      293
+    ],
+    "zoophilous": [
+      294
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "sampleSize": 300,
+  "selection": "Deterministic SHA-256 random ordering; round-robin unique selection from CET4/CET6/IELTS/TOEFL",
+  "examMembership": {
+    "CET4": 182,
+    "CET6": 227,
+    "IELTS": 181,
+    "TOEFL": 204
+  },
+  "confidenceCounts": {
+    "curated+database": 22,
+    "database": 268,
+    "reviewed": 10
+  },
+  "categoryCounts": {
+    "compound": 12,
+    "derived": 119,
+    "independent-reviewed": 2,
+    "single-root": 167
+  },
+  "databaseRootSegmented": 290,
+  "databaseCoveragePercent": 96.7,
+  "databaseCoverageWarning": "MorphoLex treats an unsegmented lexical item as a root; database coverage is not reusable-root coverage",
+  "reusableRootCandidates": 143,
+  "reusableRootCandidatePercent": 47.7,
+  "singleRootLexemes": 167,
+  "singleRootLexemePercent": 55.7,
+  "ruleCandidates": 0,
+  "ruleCandidatePercent": 0.0,
+  "unresolved": 0,
+  "unresolvedPercent": 0.0,
+  "unresolvedWarning": "Unresolved means not identified by this prototype, not etymologically rootless",
+  "curatedConflicts": 0,
+  "withRootLearnerMeaning": 56,
+  "newRootCurationNeeded": 89,
+  "newRootFormsNeedingMeanings": 93,
+  "needsReview": 0
+}
